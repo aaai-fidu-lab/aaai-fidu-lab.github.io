@@ -1,14 +1,22 @@
 <footer class="site-footer">
   <div class="wrapper">
-    <div class="footer-col-wrapper" >
-    <div class="footer-nav">
+    <div class="footer-col-wrapper">
+      <div class="footer-nav">
         {% for lesson in site.pages %}
           {% if lesson.nav == true %}
           <a class="page-link{% if page.url == lesson.url %} active{% endif %}" href="{{ lesson.url | relative_url }}">{{ lesson.title | escape }}</a>
           {% endif %}
         {% endfor %}
+      </div>
     </div>
+    <h2 class="footer-heading">
+      <a href="{{ '/' | relative_url }}">{{ site.title | escape }}</a> - {{ site.pub_year }}
+    </h2>
+    <div class="footer-col-wrapper">
+      <div class="footer-col">
+        Built using <a href="https://jekyllrb.com/">Jekyll</a> and <a href="https://pages.github.com/">GitHub Pages</a>.
+        Last updated: {{ site.time | date: "%Y-%m-%d" }}.
+      </div>
     </div>
-      <h2 class="footer-heading"><a href="{{ '/' | relative_url }}">{{ site.title | escape }}</a> - <a href="https://creativecommons.org/licenses/by-sa/4.0/">cc-by-sa</a> <a href="https://github.com/{{ site.github_username }}">{{ site.author }}</a> - {{ site.pub_year }}.</h2> 
   </div>
 </footer>
