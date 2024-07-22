@@ -7,16 +7,16 @@ body {
   flex-direction: column;
 }
 
-main {
+.page-content {
   flex: 1 0 auto;
 }
 
 .site-footer {
   flex-shrink: 0;
+  font-size: 0.9em;
   padding: 20px 0;
 }
 
 .footer-content {
   text-align: center;
-  font-size: 0.9em;
 }
