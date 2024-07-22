@@ -10,17 +10,23 @@ html, body {
 }
 
 #content-wrap {
-  padding-bottom: 60px;  /* Footer height */
+  padding-bottom: 40px;  /* Reduced Footer height */
 }
 
 .site-footer {
   position: absolute;
   bottom: 0;
   width: 100%;
-  height: 60px;  /* Set the fixed height of the footer here */
+  height: 40px;  /* Reduced fixed height of the footer */
+}
+
+.site-footer .wrapper {
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .footer-content {
   text-align: center;
-  font-size: 0.9em;
+  font-size: 0.8em;  /* Slightly reduced font size */
+  line-height: 1.2;  /* Tightened line height */
 }
