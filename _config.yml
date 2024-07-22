@@ -6,6 +6,7 @@ year: 2024
 # Site settings
 baseurl: "/"
 url: "https://evaleval.github.io"
+emoji_favicon: "💡"
 
 # Author settings
 # author: "Workshop Organizing Committee"
