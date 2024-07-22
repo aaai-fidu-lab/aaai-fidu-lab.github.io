@@ -32,14 +32,13 @@ We welcome submissions addressing, but not limited to, the following themes:
 
 - Paper Length: Maximum 2 pages, excluding unlimited pages for references
 - Format: PDF file, using the [NeurIPS 2024 LaTeX style file](https://neurips.cc/Conferences/2024/PaperInformation/StyleFiles)
-- Submission Portal: [Insert submission portal link here]
+- Submission Portal: [EvalEval OpenReview]({{ site.submission_url }})
 - Anonymity: Submissions should be anonymous for two-way anonymized review
 - This is a participatory, in-person event. Accepted Authors are encouraged to present their work and discuss it at the event.
 - Broader impact statement and Limitation section are not counted in the paper length.
 
 ## Important Dates
 
-- Submission Deadline: September 6, 2024 AOE
-- Notification of Acceptance: September 30, 2024 AOE
+- Submission Deadline: September 20, 2024 AOE
+- Notification of Acceptance: October 14, 2024 AOE
 - Workshop Date: December 14 or 15, 2024 [TBD]
-
