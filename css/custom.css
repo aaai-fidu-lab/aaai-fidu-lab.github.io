@@ -1,15 +1,23 @@
-.site {
-  display: flex;
-  min-height: 100vh;
-  flex-direction: column;
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
 }
 
-.site-content {
-  flex: 1 0 auto;
+#page-container {
+  position: relative;
+  min-height: 100%;
+}
+
+#content-wrap {
+  padding-bottom: 60px;  /* Footer height */
 }
 
 .site-footer {
-  flex-shrink: 0;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 60px;  /* Set the fixed height of the footer here */
 }
 
 .footer-content {
