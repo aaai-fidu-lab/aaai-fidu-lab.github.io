@@ -1,15 +1,5 @@
-# Jekyll workshop-template evanwill
-# https://github.com/evanwill/workshop-template
-# based on minima theme https://github.com/jekyll/minima
-
-# Notes: 
-# - pages with "nav: true" in front matter will be in header nav
-# - figure include for centered images, put file in images directory and use: {% include figure.html img="my-cat.jpg" alt="cat" caption="My cat" width="50%" %}
-
-# Site settings
-# title appears in the header
 # Workshop Site Settings
-title: "EvalEval 2024"
+title: "Evaluating Evaluations: Broader Impacts of Generative AI"
 description: "A NeurIPS 2024 workshop on best practices for measuring the broader impacts of generative AI systems"
 year: 2024
 
@@ -19,6 +9,9 @@ url: "https://evaleval.github.io"
 
 # Author settings
 author: "Workshop Organizing Committee"
+
+# Submission settings
+submission_url: "https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/EvalEval"
 
 # Build settings
 markdown: kramdown
