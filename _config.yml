@@ -8,7 +8,7 @@ baseurl: "/"
 url: "https://evaleval.github.io"
 
 # Author settings
-author: "Workshop Organizing Committee"
+# author: "Workshop Organizing Committee"
 
 # Submission settings
 submission_url: "https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/EvalEval"
