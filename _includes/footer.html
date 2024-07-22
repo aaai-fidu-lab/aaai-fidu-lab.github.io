@@ -1,22 +1,20 @@
 <footer class="site-footer">
   <div class="wrapper">
-    <div class="footer-col-wrapper">
-      <div class="footer-nav">
-        {% for lesson in site.pages %}
-          {% if lesson.nav == true %}
-          <a class="page-link{% if page.url == lesson.url %} active{% endif %}" href="{{ lesson.url | relative_url }}">{{ lesson.title | escape }}</a>
-          {% endif %}
-        {% endfor %}
-      </div>
-    </div>
-    <h2 class="footer-heading">
-      <a href="{{ '/' | relative_url }}">{{ site.title | escape }}</a> - {{ site.pub_year }}
-    </h2>
-    <div class="footer-col-wrapper">
-      <div class="footer-col">
-        Built using <a href="https://jekyllrb.com/">Jekyll</a> and <a href="https://pages.github.com/">GitHub Pages</a>.
-        Last updated: {{ site.time | date: "%Y-%m-%d" }}.
-      </div>
+    <div class="footer-content">
+      © Copyright EvalEval {{ site.time | date: '%Y' }}, <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">CC-BY-SA</a>. 
+      Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/evanwill/workshop-template" target="_blank">workshop-template</a>. 
+      Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>. 
+      Last updated: {{ site.time | date: "%B %d, %Y" }}.
     </div>
   </div>
 </footer>
+
+<style>
+  .site-footer {
+    padding: 10px 0;
+    font-size: 0.9em;
+  }
+  .footer-content {
+    text-align: center;
+  }
+</style>
