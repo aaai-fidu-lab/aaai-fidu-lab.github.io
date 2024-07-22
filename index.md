@@ -23,7 +23,3 @@ This workshop aims to address the critical gap in evaluating the broader impacts
 {% if lesson.nav == true %}- [{{ lesson.title }}]({{ lesson.url | relative_url }}){% endif %}
 {% endfor %}
 </div>
-
-> built using [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/)
->
-> Last updated: {{ site.time | date: "%Y-%m-%d" }}.
