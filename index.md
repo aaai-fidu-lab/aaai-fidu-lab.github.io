@@ -2,19 +2,15 @@
 title: Home
 ---
 
-# Workshop Template!
+# Evaluating Evaluations: Examining Best Practices for Measuring Broader Impacts of Generative AI
 
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
+{% include figure.html img="ai-evaluation.jpg" alt="AI Evaluation" caption="Evaluating the Broader Impacts of Generative AI" width="75%" %}
 
-A minimal Jekyll theme for creating workshop websites.
+A workshop co-located with [NeurIPS 2024](https://neurips.cc/)
 
-*Add your workshop abstract here!*
+*Date: December 14 or 15, 2024 [TBD]*
 
-Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
-Host it for free on GitHub with gh-pages, and share!
-Fun!
-
-*See also:* [workshop-template-b](https://evanwill.github.io/workshop-template-b/), Bootstrap version.
+This workshop aims to address the critical gap in evaluating the broader impacts of generative AI systems by bringing together experts on evaluation science and practitioners who develop and analyze technical systems. We will share existing findings, develop future directions for effective community-driven evaluations, and create comprehensive frameworks for documenting and standardizing evaluation practices.
 
 <div class="toc" markdown="1">
 ## Contents:
@@ -24,11 +20,6 @@ Fun!
 {% endfor %}
 </div>
 
-Hosted by [University of Idaho Library](http://www.lib.uidaho.edu/), {{ site.pub_year }}.
- 
 > built using [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/)
 >
-> images and content: cc-by-sa <a href="https://github.com/{{ site.github_username }}">{{ site.author }}</a> {{ site.pub_year}} (get [source code]({{ site.repo }})).
-> Last build date: {{ site.time | date: "%Y-%m-%d" }}.
->
-> <a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" alt="Creative Commons License" /></a>
+> Last updated: {{ site.time | date: "%Y-%m-%d" }}.
