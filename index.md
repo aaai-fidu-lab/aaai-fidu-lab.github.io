@@ -4,8 +4,6 @@ title: Home
 
 # Evaluating Evaluations: Examining Best Practices for Measuring Broader Impacts of Generative AI
 
-{% include figure.html img="ai-evaluation.jpg" alt="AI Evaluation" caption="Evaluating the Broader Impacts of Generative AI" width="75%" %}
-
 A workshop co-located with [NeurIPS 2024](https://neurips.cc/)
 
 *Date: December 14 or 15, 2024 [TBD]*
