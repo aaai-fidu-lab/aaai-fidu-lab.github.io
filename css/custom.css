@@ -4,6 +4,10 @@ html, body {
   padding: 0;
 }
 
+strong{
+ font-weight:bold !important;
+}
+
 #page-container {
   position: relative;
   min-height: 100%;
