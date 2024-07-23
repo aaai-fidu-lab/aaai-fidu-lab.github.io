@@ -23,7 +23,6 @@ relative_links:
 # Navigation settings
 nav_pages:
   - index.md
-  - overview.md
   - call-for-papers.md
   - schedule.md
   - people.md
