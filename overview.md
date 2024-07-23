@@ -7,7 +7,7 @@ nav: true
 
 Generative AI systems are becoming increasingly prevalent in society, producing content such as text, images, audio, and video with far-reaching implications. While the NeurIPS Broader Impact statement has notably shifted norms for AI publications to consider negative societal impact, no standard exists for how to approach these impact assessments.
 
-This workshop builds upon our previous initiatives, including past workshops, our "Evaluating the Social Impact of Generative AI Systems" report, and crowdsourced evaluations. We aim to share existing findings with the NeurIPS community and collectively develop future directions for effective community-driven evaluations.
+This workshop builds upon previous initiatives, including past workshops, "Evaluating the Social Impact of Generative AI Systems" report, and crowdsourced evaluations. We aim to share existing findings with the NeurIPS community and collectively develop future directions for effective community-driven evaluations.
 
 A key focus is participatory AI: Wide benefits can be gained from involving all participants and stakeholders in a system, not just domain experts. By encouraging collaboration among experts, practitioners, and the wider community, the workshop aims to create more comprehensive evaluations and develop AI community resources and policy recommendations.
 
