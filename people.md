@@ -3,27 +3,82 @@ title: People
 nav: true
 ---
 
+<style>
+.organizer-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 20px;
+}
+.organizer-card {
+  text-align: center;
+}
+.organizer-photo {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
+</style>
+
 # Core Organizers
 
-Organized Alphabetically by last name:
-
-- **Avijit Ghosh** (avijit@huggingface.co) - Applied Policy Researcher, Machine Learning and Society Team at Hugging Face; Associate Researcher, University of Connecticut's RIET Lab
-
-- **Usman Gohar** (ugohar@iastate.edu) - Ph.D. student and F. Wendell Miller Scholar, Department of Computer Science, Iowa State University
-
-- **Yacine Jernite** (yacine@huggingface.co) - Machine Learning and Society Lead, Hugging Face
-
-- **Lucie-Aimée Kaffee** (lucie.kaffee@huggingface.co) - Applied Policy Researcher, Hugging Face
-
-- **Alberto Lusoli** (alberto.lusoli@gmail.com) - Digital Democracies Institute Deputy Director and Postdoctoral Researcher, Simon Fraser University
-
-- **Jennifer Mickel** (jamickel@utexas.edu) - Researcher in AI and algorithmic fairness, machine learning, and NLP
-
-- **Irene Solaiman** (irene@huggingface.co) - Head of Global Policy, Hugging Face
-
-- **Arjun Subramonian** (arjunsub@cs.ucla.edu) - Computer Science PhD candidate, University of California, Los Angeles
-
-- **Zeerak Talat** (z@zeerak.org) - Research Fellow, Mohamed Bin Zayed University of Artificial Intelligence; Visiting Research Fellow, Alexander von Humboldt Institute for Internet and Society
+<div class="organizer-grid">
+  <div class="organizer-card">
+    <img src="images/avijit-ghosh.jpg" alt="Avijit Ghosh" class="organizer-photo">
+    <strong>Avijit Ghosh</strong><br>
+    Applied Policy Researcher, Hugging Face<br>
+    <a href="mailto:avijit@huggingface.co">avijit@huggingface.co</a>
+  </div>
+  <div class="organizer-card">
+    <img src="images/usman-gohar.jpg" alt="Usman Gohar" class="organizer-photo">
+    <strong>Usman Gohar</strong><br>
+    Ph.D. student, Iowa State University<br>
+    <a href="mailto:ugohar@iastate.edu">ugohar@iastate.edu</a>
+  </div>
+  <div class="organizer-card">
+    <img src="images/yacine-jernite.jpg" alt="Yacine Jernite" class="organizer-photo">
+    <strong>Yacine Jernite</strong><br>
+    Machine Learning and Society Lead, Hugging Face<br>
+    <a href="mailto:yacine@huggingface.co">yacine@huggingface.co</a>
+  </div>
+  <div class="organizer-card">
+    <img src="images/lucie-aimee-kaffee.jpg" alt="Lucie-Aimée Kaffee" class="organizer-photo">
+    <strong>Lucie-Aimée Kaffee</strong><br>
+    Applied Policy Researcher, Hugging Face<br>
+    <a href="mailto:lucie.kaffee@huggingface.co">lucie.kaffee@huggingface.co</a>
+  </div>
+  <div class="organizer-card">
+    <img src="images/alberto-lusoli.jpg" alt="Alberto Lusoli" class="organizer-photo">
+    <strong>Alberto Lusoli</strong><br>
+    Digital Democracies Institute Deputy Director, Simon Fraser University<br>
+    <a href="mailto:alberto.lusoli@gmail.com">alberto.lusoli@gmail.com</a>
+  </div>
+  <div class="organizer-card">
+    <img src="images/jennifer-mickel.jpg" alt="Jennifer Mickel" class="organizer-photo">
+    <strong>Jennifer Mickel</strong><br>
+    Researcher in AI and algorithmic fairness<br>
+    <a href="mailto:jamickel@utexas.edu">jamickel@utexas.edu</a>
+  </div>
+  <div class="organizer-card">
+    <img src="images/irene-solaiman.jpg" alt="Irene Solaiman" class="organizer-photo">
+    <strong>Irene Solaiman</strong><br>
+    Head of Global Policy, Hugging Face<br>
+    <a href="mailto:irene@huggingface.co">irene@huggingface.co</a>
+  </div>
+  <div class="organizer-card">
+    <img src="images/arjun-subramonian.jpg" alt="Arjun Subramonian" class="organizer-photo">
+    <strong>Arjun Subramonian</strong><br>
+    Computer Science PhD candidate, UCLA<br>
+    <a href="mailto:arjunsub@cs.ucla.edu">arjunsub@cs.ucla.edu</a>
+  </div>
+  <div class="organizer-card">
+    <img src="images/zeerak-talat.jpg" alt="Zeerak Talat" class="organizer-photo">
+    <strong>Zeerak Talat</strong><br>
+    Research Fellow, MBZUAI<br>
+    <a href="mailto:z@zeerak.org">z@zeerak.org</a>
+  </div>
+</div>
 
 # Additional Contributors
 
