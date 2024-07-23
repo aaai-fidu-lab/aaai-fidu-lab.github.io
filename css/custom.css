@@ -10,19 +10,19 @@ html, body {
 }
 
 #content-wrap {
-  padding-bottom: 40px;  /* Reduced Footer height */
+/*   padding-bottom: 40px;  /* Reduced Footer height */ */
 }
 
 .site-footer {
   position: absolute;
   bottom: 0;
   width: 100%;
-  height: 35px !important;  /* Reduced fixed height of the footer */
+/*   height: 35px !important;  /* Reduced fixed height of the footer */ */
 }
 
 .site-footer .wrapper {
-  padding-top: 10px;
-  padding-bottom: 10px;
+/*   padding-top: 10px;
+  padding-bottom: 10px; */
 }
 
 .footer-content {
