@@ -10,6 +10,9 @@ nav: true
   gap: 20px;
 }
 .organizer-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   text-align: center;
 }
 .organizer-photo {
@@ -19,6 +22,11 @@ nav: true
   object-fit: cover;
   margin-bottom: 10px;
 }
+.organizer-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 </style>
 
 # Core Organizers
@@ -26,57 +34,75 @@ nav: true
 <div class="organizer-grid">
   <div class="organizer-card">
     <img src="images/avijit-ghosh.jpg" alt="Avijit Ghosh" class="organizer-photo">
-    <strong>Avijit Ghosh</strong><br>
-    Applied Policy Researcher, Hugging Face<br>
-    <a href="mailto:avijit@huggingface.co">avijit@huggingface.co</a>
+    <div class="organizer-info">
+      <strong>Avijit Ghosh</strong>
+      <span>Applied Policy Researcher, Hugging Face</span>
+      <a href="mailto:avijit@huggingface.co">avijit@huggingface.co</a>
+    </div>
   </div>
   <div class="organizer-card">
     <img src="images/usman-gohar.jpg" alt="Usman Gohar" class="organizer-photo">
-    <strong>Usman Gohar</strong><br>
-    Ph.D. student, Iowa State University<br>
-    <a href="mailto:ugohar@iastate.edu">ugohar@iastate.edu</a>
+    <div class="organizer-info">
+      <strong>Usman Gohar</strong>
+      <span>Ph.D. student, Iowa State University</span>
+      <a href="mailto:ugohar@iastate.edu">ugohar@iastate.edu</a>
+    </div>
   </div>
   <div class="organizer-card">
     <img src="images/yacine-jernite.jpg" alt="Yacine Jernite" class="organizer-photo">
-    <strong>Yacine Jernite</strong><br>
-    Machine Learning and Society Lead, Hugging Face<br>
-    <a href="mailto:yacine@huggingface.co">yacine@huggingface.co</a>
+    <div class="organizer-info">
+      <strong>Yacine Jernite</strong>
+      <span>Machine Learning and Society Lead, Hugging Face</span>
+      <a href="mailto:yacine@huggingface.co">yacine@huggingface.co</a>
+    </div>
   </div>
   <div class="organizer-card">
     <img src="images/lucie-aimee-kaffee.jpg" alt="Lucie-Aimée Kaffee" class="organizer-photo">
-    <strong>Lucie-Aimée Kaffee</strong><br>
-    Applied Policy Researcher, Hugging Face<br>
-    <a href="mailto:lucie.kaffee@huggingface.co">lucie.kaffee@huggingface.co</a>
+    <div class="organizer-info">
+      <strong>Lucie-Aimée Kaffee</strong>
+      <span>Applied Policy Researcher, Hugging Face</span>
+      <a href="mailto:lucie.kaffee@huggingface.co">lucie.kaffee@huggingface.co</a>
+    </div>
   </div>
   <div class="organizer-card">
     <img src="images/alberto-lusoli.jpg" alt="Alberto Lusoli" class="organizer-photo">
-    <strong>Alberto Lusoli</strong><br>
-    Digital Democracies Institute Deputy Director, Simon Fraser University<br>
-    <a href="mailto:alberto.lusoli@gmail.com">alberto.lusoli@gmail.com</a>
+    <div class="organizer-info">
+      <strong>Alberto Lusoli</strong>
+      <span>Digital Democracies Institute Deputy Director, Simon Fraser University</span>
+      <a href="mailto:alberto.lusoli@gmail.com">alberto.lusoli@gmail.com</a>
+    </div>
   </div>
   <div class="organizer-card">
     <img src="images/jennifer-mickel.jpg" alt="Jennifer Mickel" class="organizer-photo">
-    <strong>Jennifer Mickel</strong><br>
-    Researcher in AI and algorithmic fairness<br>
-    <a href="mailto:jamickel@utexas.edu">jamickel@utexas.edu</a>
+    <div class="organizer-info">
+      <strong>Jennifer Mickel</strong>
+      <span>Researcher in AI and algorithmic fairness</span>
+      <a href="mailto:jamickel@utexas.edu">jamickel@utexas.edu</a>
+    </div>
   </div>
   <div class="organizer-card">
     <img src="images/irene-solaiman.jpg" alt="Irene Solaiman" class="organizer-photo">
-    <strong>Irene Solaiman</strong><br>
-    Head of Global Policy, Hugging Face<br>
-    <a href="mailto:irene@huggingface.co">irene@huggingface.co</a>
+    <div class="organizer-info">
+      <strong>Irene Solaiman</strong>
+      <span>Head of Global Policy, Hugging Face</span>
+      <a href="mailto:irene@huggingface.co">irene@huggingface.co</a>
+    </div>
   </div>
   <div class="organizer-card">
     <img src="images/arjun-subramonian.jpg" alt="Arjun Subramonian" class="organizer-photo">
-    <strong>Arjun Subramonian</strong><br>
-    Computer Science PhD candidate, UCLA<br>
-    <a href="mailto:arjunsub@cs.ucla.edu">arjunsub@cs.ucla.edu</a>
+    <div class="organizer-info">
+      <strong>Arjun Subramonian</strong>
+      <span>Computer Science PhD candidate, UCLA</span>
+      <a href="mailto:arjunsub@cs.ucla.edu">arjunsub@cs.ucla.edu</a>
+    </div>
   </div>
   <div class="organizer-card">
     <img src="images/zeerak-talat.jpg" alt="Zeerak Talat" class="organizer-photo">
-    <strong>Zeerak Talat</strong><br>
-    Research Fellow, MBZUAI<br>
-    <a href="mailto:z@zeerak.org">z@zeerak.org</a>
+    <div class="organizer-info">
+      <strong>Zeerak Talat</strong>
+      <span>Research Fellow, MBZUAI</span>
+      <a href="mailto:z@zeerak.org">z@zeerak.org</a>
+    </div>
   </div>
 </div>
 
