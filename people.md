@@ -41,6 +41,30 @@ nav: true
     </div>
   </div>
   <div class="organizer-card">
+    <img src="images/irene-solaiman.jpg" alt="Irene Solaiman" class="organizer-photo">
+    <div class="organizer-info">
+      <strong>Irene Solaiman</strong>
+      <span>Head of Global Policy, Hugging Face</span>
+      <a href="mailto:irene@huggingface.co">irene@huggingface.co</a>
+    </div>
+  </div>
+  <div class="organizer-card">
+    <img src="images/zeerak-talat.jpg" alt="Zeerak Talat" class="organizer-photo">
+    <div class="organizer-info">
+      <strong>Zeerak Talat</strong>
+      <span>Research Fellow, MBZUAI</span>
+      <a href="mailto:z@zeerak.org">z@zeerak.org</a>
+    </div>
+  </div>
+  <div class="organizer-card">
+    <img src="images/felix-friedrich.jpg" alt="Felix Friedrich" class="organizer-photo">
+    <div class="organizer-info">
+      <strong>Felix Friedrich</strong>
+      <span>PhD student, TU Darmstadt & hessian.AI</span>
+      <a href="mailto:friedrich@cs.tu-darmstadt.de">friedrich@cs.tu-darmstadt.de</a>
+    </div>
+  </div>
+  <div class="organizer-card">
     <img src="images/usman-gohar.jpg" alt="Usman Gohar" class="organizer-photo">
     <div class="organizer-info">
       <strong>Usman Gohar</strong>
@@ -81,27 +105,11 @@ nav: true
     </div>
   </div>
   <div class="organizer-card">
-    <img src="images/irene-solaiman.jpg" alt="Irene Solaiman" class="organizer-photo">
-    <div class="organizer-info">
-      <strong>Irene Solaiman</strong>
-      <span>Head of Global Policy, Hugging Face</span>
-      <a href="mailto:irene@huggingface.co">irene@huggingface.co</a>
-    </div>
-  </div>
-  <div class="organizer-card">
     <img src="images/arjun-subramonian.jpg" alt="Arjun Subramonian" class="organizer-photo">
     <div class="organizer-info">
       <strong>Arjun Subramonian</strong>
       <span>Computer Science PhD candidate, UCLA</span>
       <a href="mailto:arjunsub@cs.ucla.edu">arjunsub@cs.ucla.edu</a>
-    </div>
-  </div>
-  <div class="organizer-card">
-    <img src="images/zeerak-talat.jpg" alt="Zeerak Talat" class="organizer-photo">
-    <div class="organizer-info">
-      <strong>Zeerak Talat</strong>
-      <span>Research Fellow, MBZUAI</span>
-      <a href="mailto:z@zeerak.org">z@zeerak.org</a>
     </div>
   </div>
 </div>
