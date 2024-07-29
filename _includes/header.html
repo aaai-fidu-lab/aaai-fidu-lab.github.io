@@ -28,10 +28,12 @@
 document.addEventListener('DOMContentLoaded', function() {
   var checkbox = document.querySelector('.nav-trigger');
   var menuIcon = document.querySelector('.menu-icon');
+  var trigger = document.querySelector('.trigger');
   
   menuIcon.addEventListener('click', function(e) {
-    checkbox.checked = !checkbox.checked;
     e.preventDefault();
+    checkbox.checked = !checkbox.checked;
+    trigger.style.display = checkbox.checked ? 'block' : 'none';
   });
 
   // Close menu when a link is clicked
@@ -39,6 +41,7 @@ document.addEventListener('DOMContentLoaded', function() {
   menuLinks.forEach(function(link) {
     link.addEventListener('click', function() {
       checkbox.checked = false;
+      trigger.style.display = 'none';
     });
   });
 });
