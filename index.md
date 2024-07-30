@@ -45,6 +45,14 @@ a {
 }
 .toc ul li {
   margin-bottom: 10px;
+  position: relative;
+  padding-left: 20px;
+}
+.toc ul li::before {
+  content: "→";
+  position: absolute;
+  left: 0;
+  color: #0366d6;
 }
 .toc ul li a {
   text-decoration: none;
