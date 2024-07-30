@@ -1,5 +1,5 @@
 ---
-title: People
+title: Organizers
 nav: true
 ---
 
@@ -7,6 +7,16 @@ nav: true
 .organizer-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 20px;
+}
+.lead-organizer-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+.core-organizer-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
   gap: 20px;
 }
 .organizer-card {
@@ -27,11 +37,16 @@ nav: true
   flex-direction: column;
   align-items: center;
 }
+@media (max-width: 768px) {
+  .lead-organizer-grid, .core-organizer-grid {
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  }
+}
 </style>
 
-# Core Organizers
+# Lead Organizers
 
-<div class="organizer-grid">
+<div class="lead-organizer-grid">
   <div class="organizer-card">
     <img src="images/avijit-ghosh.jpg" alt="Avijit Ghosh" class="organizer-photo">
     <div class="organizer-info">
@@ -56,6 +71,11 @@ nav: true
       <a href="mailto:z@zeerak.org">z@zeerak.org</a>
     </div>
   </div>
+</div>
+
+# Core Organizers
+
+<div class="core-organizer-grid">
   <div class="organizer-card">
     <img src="images/felix-friedrich.jpg" alt="Felix Friedrich" class="organizer-photo">
     <div class="organizer-info">
@@ -124,7 +144,6 @@ nav: true
 - Jesse Dodge (Allen Institute for AI)
 - Isabella Duan (University of Chicago)
 - Ellie Evans (Independent)
-- Felix Friedrich (TU Darmstadt, hessian.AI)
 - Sara Hooker (Cohere for AI)
 - Ria Kalluri (Stanford University)
 - Alina Leidinger (University of Amsterdam)
@@ -142,8 +161,8 @@ nav: true
 
 # Contact Information
 
-For any queries regarding the workshop or submission process, please contact the core organizers listed above.
+For any queries regarding the workshop or submission process, please contact the lead organizers listed above.
 
 # Acknowledgments
 
-We gratefully acknowledge the support of all our core organizers, additional contributors, and the NeurIPS community in making this workshop possible.
+We gratefully acknowledge the support of all our organizers, additional contributors, and the NeurIPS community in making this workshop possible.
