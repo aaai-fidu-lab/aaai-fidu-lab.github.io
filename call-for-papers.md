@@ -19,9 +19,9 @@ We welcome submissions addressing, but not limited to, the following themes:
     <li><strong>Conceptualization and operationalization issues</strong> in evaluations of:
       <ul>
         <li><strong>Bias, stereotypes, and representational harms</strong></li>
-        <li><strong>Cultural values</strong> and sensitive content</li>
-        <li><strong>Community-centered definitions</strong> of disparate performance and privacy</li>
-        <li><strong>Documentation frameworks</strong> for financial and environmental costs of evaluations</li>
+        <li><strong>Cultural values and sensitive content</strong></li>
+        <li><strong>Disparate performance and privacy</strong></li>
+        <li><strong>Financial and environmental costs of evaluations</strong></li>
       </ul>
     </li>
     <li><strong>Ethical or consequential validity considerations</strong> for:
