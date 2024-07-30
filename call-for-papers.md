@@ -4,11 +4,6 @@ nav: true
 ---
 
 <style>
-  body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    color: #333;
-  }
   h1, h2 {
     color: #1976D2;
     border-bottom: 2px solid #2196F3;
@@ -30,7 +25,7 @@ nav: true
   .themes-list ul {
     padding-left: 20px;
   }
-  strong {
+  .themes-list strong {
     color: #1976D2;
   }
   .guidelines, .dates {
@@ -41,7 +36,6 @@ nav: true
   }
   a {
     color: #2196F3;
-    text-decoration: none;
   }
   a:hover {
     text-decoration: underline;
@@ -59,33 +53,32 @@ We are soliciting tiny papers (up to 2 pages long) in the following formats:
 
 We welcome submissions addressing, but not limited to, the following themes:
 
-<div class="themes-container">
-  <ol class="themes-list">
-    <li><strong>Conceptualization and operationalization issues</strong> in evaluations of:
-      <ul>
-        <li><strong>Bias, stereotypes, and representational harms</strong></li>
-        <li><strong>Cultural values and sensitive content</strong></li>
-        <li>Community-centered definitions of <strong>Disparate performance and privacy</strong></li>
-        <li>Documentation frameworks for <strong>Financial and environmental costs of models</strong></li>
-      </ul>
-    </li>
-    <li><strong>Ethical or consequential validity considerations</strong> for:
-      <ul>
-        <li><strong>Data protection</strong></li>
-        <li><strong>Data and content moderation labor</strong></li>
-        <li><strong>Historical implications</strong> of evaluation data or practices for evaluation validity</li>
-      </ul>
-    </li>
-    <li><strong>Interrogating or critiquing</strong> the theoretical basis of existing evaluations</li>
-    <li><strong>Novel methodologies</strong> for evaluating social impact across different AI modalities</li>
-    <li><strong>Comparative analyses</strong> of existing evaluation frameworks and their effectiveness</li>
-    <li><strong>Case studies</strong> of social impact evaluations in real-world AI applications</li>
-  </ol>
+<div class="themes-container" markdown="1">
+
+1. **Conceptualization and operationalization issues** in evaluations of:
+   - **Bias, stereotypes, and representational harms**
+   - **Cultural values and sensitive content**
+   - Community-centered definitions of **Disparate performance and privacy**
+   - Documentation frameworks for **Financial and environmental costs of models**
+
+2. **Ethical or consequential validity considerations** for:
+   - **Data protection**
+   - **Data and content moderation labor**
+   - **Historical implications** of evaluation data or practices for evaluation validity
+
+3. **Interrogating or critiquing** the theoretical basis of existing evaluations
+
+4. **Novel methodologies** for evaluating social impact across different AI modalities
+
+5. **Comparative analyses** of existing evaluation frameworks and their effectiveness
+
+6. **Case studies** of social impact evaluations in real-world AI applications
+
 </div>
 
 ## Submission Guidelines
 
-<div class="guidelines">
+<div class="guidelines" markdown="1">
 
 - Paper Length: Maximum 2 pages, excluding unlimited pages for references
 - Format: PDF file, using the [NeurIPS 2024 LaTeX style file](https://neurips.cc/Conferences/2024/PaperInformation/StyleFiles)
@@ -98,7 +91,7 @@ We welcome submissions addressing, but not limited to, the following themes:
 
 ## Important Dates
 
-<div class="dates">
+<div class="dates" markdown="1">
 
 - Submission Deadline: September 20, 2024 AOE
 - Notification of Acceptance: October 14, 2024 AOE
