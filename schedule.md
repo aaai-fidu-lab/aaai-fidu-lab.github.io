@@ -14,9 +14,16 @@ nav: true
     overflow: hidden;
   }
   .schedule-table th, .schedule-table td {
-    border: none;
+    border-right: 1px solid #e0e0e0;
+    border-bottom: 1px solid #e0e0e0;
     padding: 12px;
     text-align: left;
+  }
+  .schedule-table th:last-child, .schedule-table td:last-child {
+    border-right: none;
+  }
+  .schedule-table tr:last-child td {
+    border-bottom: none;
   }
   .schedule-table th {
     background-color: #f0f0f0;
@@ -43,6 +50,10 @@ nav: true
     color: #0366d6;
   }
 </style>
+
+# Workshop Structure (Tentative)
+
+Total Duration: 8 Hours
 
 <table class="schedule-table">
   <tr>
