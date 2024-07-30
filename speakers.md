@@ -21,16 +21,10 @@ nav: true
   width: 100%;
   text-align: center;
 }
-
-.emoji {
-  font-size: 48px;
-  margin-bottom: 20px;
-}
 </style>
 
 <div class="card-container">
   <div class="card">
-    <div class="emoji">🎙️</div>
     <p>We are excited to bring together a stellar group of experts to discuss the critical topic of evaluating the broader impacts of generative AI systems.</p>
     <p><strong>Speakers will be announced soon. Stay tuned for updates!</strong></p>
   </div>
