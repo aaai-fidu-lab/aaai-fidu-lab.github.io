@@ -47,6 +47,11 @@ nav: true
     padding-left: 20px;
   }
   @media (max-width: 768px) {
+    .schedule-table {
+      box-shadow: none;
+      border-radius: 0;
+      overflow: visible;
+    }
     .schedule-table, .schedule-table tbody, .schedule-table tr, .schedule-table td {
       display: block;
     }
@@ -58,6 +63,7 @@ nav: true
       border: 1px solid #e0e0e0;
       border-radius: 8px;
       overflow: hidden;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     }
     .schedule-table td {
       border: none;
