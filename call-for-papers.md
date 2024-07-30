@@ -12,8 +12,8 @@ nav: true
     background-color: #f8f9fa;
     border-radius: 8px;
     padding: 20px 30px;
-    margin-top: 40px;
-    margin-bottom: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   }
   .container ul {
