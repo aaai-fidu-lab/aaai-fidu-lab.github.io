@@ -3,6 +3,51 @@ title: Call for Papers
 nav: true
 ---
 
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+  }
+  h1, h2 {
+    color: #1976D2;
+    border-bottom: 2px solid #2196F3;
+    padding-bottom: 10px;
+    margin-top: 30px;
+  }
+  .themes-container {
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  .themes-list {
+    padding-left: 20px;
+  }
+  .themes-list > li {
+    margin-bottom: 15px;
+  }
+  .themes-list ul {
+    padding-left: 20px;
+  }
+  strong {
+    color: #1976D2;
+  }
+  .guidelines, .dates {
+    background-color: #e3f2fd;
+    border-radius: 8px;
+    padding: 20px;
+    margin-top: 20px;
+  }
+  a {
+    color: #2196F3;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+</style>
+
 # Call for Tiny Papers
 
 We are soliciting tiny papers (up to 2 pages long) in the following formats:
@@ -40,6 +85,8 @@ We welcome submissions addressing, but not limited to, the following themes:
 
 ## Submission Guidelines
 
+<div class="guidelines">
+
 - Paper Length: Maximum 2 pages, excluding unlimited pages for references
 - Format: PDF file, using the [NeurIPS 2024 LaTeX style file](https://neurips.cc/Conferences/2024/PaperInformation/StyleFiles)
 - Submission Portal: [EvalEval OpenReview]({{ site.submission_url }})
@@ -47,8 +94,14 @@ We welcome submissions addressing, but not limited to, the following themes:
 - This is a participatory, in-person event. Accepted Authors are encouraged to present their work and discuss it at the event.
 - Broader impact statement and Limitation section are not counted in the paper length.
 
+</div>
+
 ## Important Dates
+
+<div class="dates">
 
 - Submission Deadline: September 20, 2024 AOE
 - Notification of Acceptance: October 14, 2024 AOE
 - Workshop Date: December 14 or 15, 2024 [TBD]
+
+</div>
