@@ -10,34 +10,47 @@ nav: true
 <style>
   .schedule-table {
     width: 100%;
-    border-collapse: collapse;
+    border-collapse: separate;
+    border-spacing: 0;
     margin-bottom: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
   }
   .schedule-table th, .schedule-table td {
-    border: 1px solid #ddd;
+    border: none;
     padding: 12px;
     text-align: left;
   }
   .schedule-table th {
-    background-color: #f2f2f2;
+    background-color: #2196F3;
+    color: white;
     font-weight: bold;
   }
   .schedule-table tr:nth-child(even) {
-    background-color: #f9f9f9;
+    background-color: #f8f9fa;
   }
   .schedule-table tr:hover {
-    background-color: #f5f5f5;
+    background-color: #e3f2fd;
   }
   .time-column {
     white-space: nowrap;
     font-weight: bold;
+    color: #1976D2;
   }
   .session-column {
     font-weight: bold;
+    color: #1976D2;
   }
   .description-column ul {
     margin: 0;
     padding-left: 20px;
+  }
+  .schedule-table tr:last-child td:first-child {
+    border-bottom-left-radius: 8px;
+  }
+  .schedule-table tr:last-child td:last-child {
+    border-bottom-right-radius: 8px;
   }
 </style>
 
