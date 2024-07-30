@@ -43,7 +43,7 @@ html, body {
 }
 
 .site-logo {
-  max-height: 35px;  
+  max-height: 50px;  
   width: auto;
 }
 
@@ -63,8 +63,8 @@ html, body {
   }
 
   .site-logo {
-    max-height: 30px;  /* Even smaller on mobile devices */
-    margin-bottom: 10px;
+    max-height: 35px;  /* Even smaller on mobile devices */
+    margin-bottom: 7px;
   }
 
   .site-nav .menu-icon {
