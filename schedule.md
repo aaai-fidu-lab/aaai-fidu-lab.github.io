@@ -90,8 +90,6 @@ nav: true
 
 # Workshop Structure (Tentative)
 
-Total Duration: 8 Hours
-
 <table class="schedule-table">
   <thead>
     <tr>
