@@ -6,7 +6,7 @@ title: Home
 .content-card {
   background-color: #f8f9fa;
   border-radius: 8px;
-  padding: 30px;
+  padding: 20px 30px;
   margin-top: 10px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 
