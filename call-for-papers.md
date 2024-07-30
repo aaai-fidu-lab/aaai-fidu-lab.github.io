@@ -12,7 +12,6 @@ nav: true
     border-radius: 8px;
     padding: 20px;
     margin-top: 20px;
-    border-left: 4px solid #e0e0e0;
   }
   a {
     color: #0366d6;
