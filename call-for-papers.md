@@ -6,27 +6,39 @@ nav: true
 <style>
   h1, h2 {
     color: #1976D2;
-    border-bottom: 2px solid #2196F3;
-    padding-bottom: 10px;
-    margin-top: 30px;
+    border-bottom: 1px solid #eaecef;
+    padding-bottom: 0.3em;
+    margin-top: 24px;
+    margin-bottom: 16px;
   }
-  .themes-container {
-    background-color: #f8f9fa;
-    border-radius: 8px;
-    padding: 20px;
+  .themes-table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    margin-bottom: 20px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
   }
-  .themes-list {
+  .themes-table th, .themes-table td {
+    border: none;
+    padding: 12px;
+    text-align: left;
+  }
+  .themes-table th {
+    background-color: #2196F3;
+    color: white;
+    font-weight: bold;
+  }
+  .themes-table tr:nth-child(even) {
+    background-color: #f8f9fa;
+  }
+  .themes-table tr:hover {
+    background-color: #e3f2fd;
+  }
+  .themes-table ul {
+    margin: 0;
     padding-left: 20px;
-  }
-  .themes-list > li {
-    margin-bottom: 15px;
-  }
-  .themes-list ul {
-    padding-left: 20px;
-  }
-  .themes-list strong {
-    color: #1976D2;
   }
   .guidelines, .dates {
     background-color: #e3f2fd;
@@ -53,28 +65,49 @@ We are soliciting tiny papers (up to 2 pages long) in the following formats:
 
 We welcome submissions addressing, but not limited to, the following themes:
 
-<div class="themes-container" markdown="1">
-
-1. **Conceptualization and operationalization issues** in evaluations of:
-   - **Bias, stereotypes, and representational harms**
-   - **Cultural values and sensitive content**
-   - Community-centered definitions of **Disparate performance and privacy**
-   - Documentation frameworks for **Financial and environmental costs of models**
-
-2. **Ethical or consequential validity considerations** for:
-   - **Data protection**
-   - **Data and content moderation labor**
-   - **Historical implications** of evaluation data or practices for evaluation validity
-
-3. **Interrogating or critiquing** the theoretical basis of existing evaluations
-
-4. **Novel methodologies** for evaluating social impact across different AI modalities
-
-5. **Comparative analyses** of existing evaluation frameworks and their effectiveness
-
-6. **Case studies** of social impact evaluations in real-world AI applications
-
-</div>
+<table class="themes-table">
+  <tr>
+    <th>Theme</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><strong>Conceptualization and operationalization issues</strong></td>
+    <td>
+      <ul>
+        <li><strong>Bias, stereotypes, and representational harms</strong></li>
+        <li><strong>Cultural values and sensitive content</strong></li>
+        <li>Community-centered definitions of <strong>Disparate performance and privacy</strong></li>
+        <li>Documentation frameworks for <strong>Financial and environmental costs of models</strong></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Ethical or consequential validity considerations</strong></td>
+    <td>
+      <ul>
+        <li><strong>Data protection</strong></li>
+        <li><strong>Data and content moderation labor</strong></li>
+        <li><strong>Historical implications</strong> of evaluation data or practices for evaluation validity</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Theoretical basis</strong></td>
+    <td>Interrogating or critiquing the theoretical basis of existing evaluations</td>
+  </tr>
+  <tr>
+    <td><strong>Novel methodologies</strong></td>
+    <td>For evaluating social impact across different AI modalities</td>
+  </tr>
+  <tr>
+    <td><strong>Comparative analyses</strong></td>
+    <td>Of existing evaluation frameworks and their effectiveness</td>
+  </tr>
+  <tr>
+    <td><strong>Case studies</strong></td>
+    <td>Of social impact evaluations in real-world AI applications</td>
+  </tr>
+</table>
 
 ## Submission Guidelines
 
