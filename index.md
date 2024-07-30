@@ -8,7 +8,6 @@ title: Home
   border-radius: 8px;
   padding: 30px;
   margin-top: 20px;
-  border-left: 4px solid #e0e0e0;
 }
 .site-banner {
   margin-bottom: 30px;
@@ -45,7 +44,7 @@ A workshop co-located with [NeurIPS 2024](https://neurips.cc/)
 Date: December 14 or 15, 2024 [TBD]
 
 
-<br><br>
+<br>
 
 <div class="content-card" markdown="1">
 
