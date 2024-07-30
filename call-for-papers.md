@@ -16,25 +16,25 @@ We welcome submissions addressing, but not limited to, the following themes:
 
 <div class="themes-container">
   <ol class="themes-list">
-    <li>Conceptualization and operationalization issues in evaluations of:
+    <li><strong>Conceptualization and operationalization issues</strong> in evaluations of:
       <ul>
-        <li>Bias, stereotypes, and representational harms</li>
-        <li>Cultural values and sensitive content</li>
-        <li>Community-centered definitions of disparate performance and privacy</li>
-        <li>Documentation frameworks for financial and environmental costs of evaluations</li>
+        <li><strong>Bias</strong>, stereotypes, and representational harms</li>
+        <li><strong>Cultural values</strong> and sensitive content</li>
+        <li><strong>Community-centered definitions</strong> of disparate performance and privacy</li>
+        <li><strong>Documentation frameworks</strong> for financial and environmental costs of evaluations</li>
       </ul>
     </li>
-    <li>Ethical or consequential validity considerations for:
+    <li><strong>Ethical or consequential validity considerations</strong> for:
       <ul>
-        <li>Data protection</li>
-        <li>Data and content moderation labor</li>
-        <li>Historical implications of evaluation data or practices for evaluation validity</li>
+        <li><strong>Data protection</strong></li>
+        <li><strong>Data and content moderation labor</strong></li>
+        <li><strong>Historical implications</strong> of evaluation data or practices for evaluation validity</li>
       </ul>
     </li>
-    <li>Interrogating or critiquing the theoretical basis of existing evaluations</li>
-    <li>Novel methodologies for evaluating social impact across different AI modalities</li>
-    <li>Comparative analyses of existing evaluation frameworks and their effectiveness</li>
-    <li>Case studies of social impact evaluations in real-world AI applications</li>
+    <li><strong>Interrogating or critiquing</strong> the theoretical basis of existing evaluations</li>
+    <li><strong>Novel methodologies</strong> for evaluating social impact across different AI modalities</li>
+    <li><strong>Comparative analyses</strong> of existing evaluation frameworks and their effectiveness</li>
+    <li><strong>Case studies</strong> of social impact evaluations in real-world AI applications</li>
   </ol>
 </div>
 
