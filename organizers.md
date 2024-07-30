@@ -153,7 +153,7 @@ a {
 
 # Additional Contributors
 
-<div class="section-card">
+<div class="section-card" markdown="1">
 
 - William Agnew (University of Washington)
 - Lama Ahmad (OpenAI)
