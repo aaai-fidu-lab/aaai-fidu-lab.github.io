@@ -55,6 +55,7 @@ We are soliciting tiny papers (up to 2 pages long) in the following formats:
 We welcome submissions addressing, but not limited to, the following themes:
 
 <div class="container" markdown="1">
+  
 - **Conceptualization and operationalization issues** in evaluations of:
   - **Bias, stereotypes, and representational harms**
   - **Cultural values** and sensitive content
