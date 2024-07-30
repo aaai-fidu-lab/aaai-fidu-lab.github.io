@@ -9,7 +9,6 @@ title: Home
   padding: 20px 30px;
   margin-top: 10px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-
 }
 .site-banner {
   margin-bottom: 30px;
@@ -46,12 +45,12 @@ a {
 .toc ul li {
   margin-bottom: 10px;
   position: relative;
-  padding-left: 5px;
+  padding-left: 0; /* Adjusted to 0 to remove extra space */
 }
 .toc ul li::before {
   content: "→";
   position: absolute;
-  left: 0;
+  left: -15px; /* Adjusted to align the arrow */
   color: #0366d6;
 }
 .toc ul li a {
