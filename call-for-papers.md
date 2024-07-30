@@ -14,24 +14,24 @@ We are soliciting tiny papers (up to 2 pages long) in the following formats:
 
 We welcome submissions addressing, but not limited to, the following themes:
 
-1. **Conceptualization and operationalization issues in evaluations of:**
-   - Bias, stereotypes, and representational harms
-   - Cultural values and sensitive content
-   - Community-centered definitions of disparate performance and privacy
-   - Documentation frameworks for financial and environmental costs of evaluations
+1. **Conceptualization and operationalization issues** in evaluations of:
+   • Bias, stereotypes, and representational harms
+   • Cultural values and sensitive content
+   • Community-centered definitions of disparate performance and privacy
+   • Documentation frameworks for financial and environmental costs of evaluations
 
-2. **Ethical or consequential validity considerations for:**
-   - Data protection
-   - Data and content moderation labor
-   - Historical implications of evaluation data or practices for evaluation validity
+2. **Ethical or consequential validity considerations** for:
+   • Data protection
+   • Data and content moderation labor
+   • Historical implications of evaluation data or practices for evaluation validity
 
 3. **Interrogating or critiquing the theoretical basis of existing evaluations**
 
-4. **Novel methodologies** for evaluating social impact across different AI modalities
+4. **Novel methodologies for evaluating social impact** across different AI modalities
 
-5. **Comparative analyses** of existing evaluation frameworks and their effectiveness
+5. **Comparative analyses of existing evaluation frameworks** and their effectiveness
 
-6. **Case studies** of social impact evaluations in real-world AI applications
+6. **Case studies of social impact evaluations in real-world AI applications**
 
 ## Submission Guidelines
 
