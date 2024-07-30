@@ -42,6 +42,27 @@ nav: true
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
   }
 }
+/* Center the last row when there's an odd number of items */
+.core-organizer-grid::after {
+  content: "";
+  grid-column: span 1;
+}
+.core-organizer-grid > *:last-child:nth-child(3n - 1) {
+  grid-column-start: 2;
+}
+/* Add spacing between sections */
+h1 {
+  margin-top: 2em;
+  margin-bottom: 1em;
+  padding-bottom: 0.5em;
+  border-bottom: 1px solid #eaecef;
+}
+.lead-organizer-grid, .core-organizer-grid {
+  margin-bottom: 2em;
+}
+#additional-contributors, #contact-information, #acknowledgments {
+  margin-top: 2em;
+}
 </style>
 
 # Lead Organizers
@@ -77,11 +98,11 @@ nav: true
 
 <div class="core-organizer-grid">
   <div class="organizer-card">
-    <img src="images/felix-friedrich.jpg" alt="Felix Friedrich" class="organizer-photo">
+    <img src="images/yacine-jernite.jpg" alt="Yacine Jernite" class="organizer-photo">
     <div class="organizer-info">
-      <strong>Felix Friedrich</strong>
-      <span>PhD student, TU Darmstadt & hessian.AI</span>
-      <a href="mailto:friedrich@cs.tu-darmstadt.de">friedrich@cs.tu-darmstadt.de</a>
+      <strong>Yacine Jernite</strong>
+      <span>Machine Learning and Society Lead, Hugging Face</span>
+      <a href="mailto:yacine@huggingface.co">yacine@huggingface.co</a>
     </div>
   </div>
   <div class="organizer-card">
@@ -93,11 +114,11 @@ nav: true
     </div>
   </div>
   <div class="organizer-card">
-    <img src="images/yacine-jernite.jpg" alt="Yacine Jernite" class="organizer-photo">
+    <img src="images/jennifer-mickel.jpg" alt="Jennifer Mickel" class="organizer-photo">
     <div class="organizer-info">
-      <strong>Yacine Jernite</strong>
-      <span>Machine Learning and Society Lead, Hugging Face</span>
-      <a href="mailto:yacine@huggingface.co">yacine@huggingface.co</a>
+      <strong>Jennifer Mickel</strong>
+      <span>Researcher in AI and algorithmic fairness</span>
+      <a href="mailto:jamickel@utexas.edu">jamickel@utexas.edu</a>
     </div>
   </div>
   <div class="organizer-card">
@@ -117,19 +138,19 @@ nav: true
     </div>
   </div>
   <div class="organizer-card">
-    <img src="images/jennifer-mickel.jpg" alt="Jennifer Mickel" class="organizer-photo">
-    <div class="organizer-info">
-      <strong>Jennifer Mickel</strong>
-      <span>Researcher in AI and algorithmic fairness</span>
-      <a href="mailto:jamickel@utexas.edu">jamickel@utexas.edu</a>
-    </div>
-  </div>
-  <div class="organizer-card">
     <img src="images/arjun-subramonian.jpg" alt="Arjun Subramonian" class="organizer-photo">
     <div class="organizer-info">
       <strong>Arjun Subramonian</strong>
       <span>Computer Science PhD candidate, UCLA</span>
       <a href="mailto:arjunsub@cs.ucla.edu">arjunsub@cs.ucla.edu</a>
+    </div>
+  </div>
+  <div class="organizer-card">
+    <img src="images/felix-friedrich.jpg" alt="Felix Friedrich" class="organizer-photo">
+    <div class="organizer-info">
+      <strong>Felix Friedrich</strong>
+      <span>PhD student, TU Darmstadt & hessian.AI</span>
+      <a href="mailto:friedrich@cs.tu-darmstadt.de">friedrich@cs.tu-darmstadt.de</a>
     </div>
   </div>
 </div>
