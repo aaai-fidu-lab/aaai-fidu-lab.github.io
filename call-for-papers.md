@@ -30,14 +30,14 @@ nav: true
   }
   h1 {
     margin-bottom: 0.5em;
-    margin-top: 1.5em;
+    margin-top: 0.5em;
   }
   h2 {
-    margin-top: 2em;
+    margin-top: 0.5em;
     margin-bottom: 0.5em;
   }
   .container + h2 {
-    margin-top: 3em;
+    margin-top: 1em;
   }
 </style>
 
