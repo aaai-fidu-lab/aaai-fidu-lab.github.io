@@ -18,8 +18,9 @@ title: Home
 .banner-image {
   max-width: 100%;
   height: auto;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
 }
-/*   border-radius: 8px; */
 
 h1, h2, h3 {
   margin-top: 1em;
