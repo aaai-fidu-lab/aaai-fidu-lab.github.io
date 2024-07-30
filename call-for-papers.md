@@ -21,30 +21,9 @@ nav: true
   }
   .themes-list > li {
     margin-bottom: 15px;
-    list-style-type: none;
-    position: relative;
-    padding-left: 25px;
-  }
-  .themes-list > li:before {
-    content: "➤";
-    color: #2196F3;
-    position: absolute;
-    left: 0;
   }
   .themes-list ul {
     padding-left: 20px;
-  }
-  .themes-list ul li {
-    list-style-type: none;
-    margin-bottom: 5px;
-    position: relative;
-    padding-left: 20px;
-  }
-  .themes-list ul li:before {
-    content: "•";
-    color: #2196F3;
-    position: absolute;
-    left: 0;
   }
   .themes-list strong {
     color: #2196F3;
