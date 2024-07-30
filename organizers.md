@@ -43,7 +43,10 @@ nav: true
   margin-top: 20px;
   border-left: 4px solid #e0e0e0;
 }
-h1, h2 {
+h1{
+  margin-bottom: 0.5em;
+}
+h2 {
   margin-top: 1.5em;
   margin-bottom: 0.5em;
 }
