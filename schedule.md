@@ -3,10 +3,6 @@ title: Schedule
 nav: true
 ---
 
-<h1>Workshop Structure (Tentative)</h1>
-
-<p>Total Duration: 8 Hours</p>
-
 <style>
   .schedule-table {
     width: 100%;
@@ -23,34 +19,28 @@ nav: true
     text-align: left;
   }
   .schedule-table th {
-    background-color: #2196F3;
-    color: white;
+    background-color: #f0f0f0;
     font-weight: bold;
   }
   .schedule-table tr:nth-child(even) {
     background-color: #f8f9fa;
   }
   .schedule-table tr:hover {
-    background-color: #e3f2fd;
+    background-color: #e9ecef;
   }
   .time-column {
     white-space: nowrap;
     font-weight: bold;
-    color: #1976D2;
   }
   .session-column {
     font-weight: bold;
-    color: #1976D2;
   }
   .description-column ul {
     margin: 0;
     padding-left: 20px;
   }
-  .schedule-table tr:last-child td:first-child {
-    border-bottom-left-radius: 8px;
-  }
-  .schedule-table tr:last-child td:last-child {
-    border-bottom-right-radius: 8px;
+  a {
+    color: #0366d6;
   }
 </style>
 
