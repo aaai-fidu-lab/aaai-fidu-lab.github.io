@@ -41,7 +41,6 @@ nav: true
   border-radius: 8px;
   padding: 20px;
   margin-top: 20px;
-  border-left: 4px solid #e0e0e0;
 }
 h1{
   margin-bottom: 0.5em;
