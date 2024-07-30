@@ -34,9 +34,6 @@ A key focus of this workshop is broadening the expertise involved in shaping eva
 4. Develop policy recommendations for investment in future directions for social impact evaluations
 5. Create a framework for documenting and standardizing evaluation practices
 
-**Note: Speakers for this workshop will be announced soon. Stay tuned for updates!**
-
-
 <div class="toc" markdown="1">
 ## Contents:
 
