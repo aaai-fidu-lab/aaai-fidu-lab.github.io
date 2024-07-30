@@ -21,7 +21,7 @@ We welcome submissions addressing, but not limited to, the following themes:
         <li><strong>Bias, stereotypes, and representational harms</strong></li>
         <li><strong>Cultural values and sensitive content</strong></li>
         <li>Community-centered definitions of <strong>Disparate performance and privacy</strong></li>
-        <li>Documentation frameworks for <strong>Financial and environmental costs of evaluations</strong></li>
+        <li>Documentation frameworks for <strong>Financial and environmental costs of models</strong></li>
       </ul>
     </li>
     <li><strong>Ethical or consequential validity considerations</strong> for:
