@@ -32,6 +32,27 @@ a {
 .content-card ul {
   padding-left: 20px;
 }
+/* Custom TOC styling */
+.toc {
+  background: none;
+  border: none;
+  box-shadow: none;
+  padding: 0;
+}
+.toc ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+.toc ul li {
+  margin-bottom: 10px;
+}
+.toc ul li a {
+  text-decoration: none;
+  color: #0366d6;
+}
+.toc ul li a:hover {
+  text-decoration: underline;
+}
 </style>
 
 <br><br>
@@ -72,10 +93,12 @@ A key focus of this workshop is broadening the expertise involved in shaping eva
 </div>
 
 ## Contents:
+<div class="content-card" markdown="1">
 
 <div class="toc" markdown="1">
 {% for lesson in site.pages %}
 {% if lesson.nav == true %}- [{{ lesson.title }}]({{ lesson.url | relative_url }}){% endif %}
 {% endfor %}
+</div>
 </div>
 
