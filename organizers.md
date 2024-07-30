@@ -10,17 +10,12 @@ nav: true
   justify-content: center;
   gap: 20px;
 }
-.lead-organizer-grid {
+.lead-organizer-grid, .core-organizer-grid {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   gap: 20px;
-}
-.core-organizer-grid {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 20px;
+  margin-bottom: 2em;
 }
 .organizer-card {
   flex: 0 1 200px;
@@ -41,27 +36,30 @@ nav: true
   flex-direction: column;
   align-items: center;
 }
+.section-card {
+  background-color: #f8f9fa;
+  border-radius: 8px;
+  padding: 20px;
+  margin-top: 20px;
+  border-left: 4px solid #e0e0e0;
+}
+h1, h2 {
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+a {
+  color: #0366d6;
+}
 @media (max-width: 768px) {
   .organizer-card {
     flex-basis: 100%;
   }
 }
-/* Add spacing between sections */
-h1 {
-  margin-bottom: 1em;
-  padding-bottom: 0.5em;
-  border-bottom: 1px solid #eaecef;
-}
-.lead-organizer-grid, .core-organizer-grid {
-  margin-bottom: 2em;
-}
-#additional-contributors, #contact-information, #acknowledgments {
-  margin-top: 2em;
-}
 </style>
 
 # Lead Organizers
 
+<div class="section-card">
 <div class="lead-organizer-grid">
   <div class="organizer-card">
     <img src="images/avijit-ghosh.jpg" alt="Avijit Ghosh" class="organizer-photo">
@@ -88,9 +86,11 @@ h1 {
     </div>
   </div>
 </div>
+</div>
 
 # Core Organizers
 
+<div class="section-card">
 <div class="core-organizer-grid">
   <div class="organizer-card">
     <img src="images/yacine-jernite.jpg" alt="Yacine Jernite" class="organizer-photo">
@@ -116,7 +116,7 @@ h1 {
       <a href="mailto:jamickel@utexas.edu">jamickel@utexas.edu</a>
     </div>
   </div>
-    <div class="organizer-card">
+  <div class="organizer-card">
     <img src="images/lucie-aimee-kaffee.jpg" alt="Lucie-Aimée Kaffee" class="organizer-photo">
     <div class="organizer-info">
       <strong>Lucie-Aimée Kaffee</strong>
@@ -149,8 +149,11 @@ h1 {
     </div>
   </div>
 </div>
+</div>
 
 # Additional Contributors
+
+<div class="section-card">
 
 - William Agnew (University of Washington)
 - Lama Ahmad (OpenAI)
@@ -175,10 +178,20 @@ h1 {
 - Andrew Strait (Ada Lovelace)
 - Lukas Struppek (German Center for Artificial Intelligence, TU Darmstadt)
 
+</div>
+
 # Contact Information
+
+<div class="section-card">
 
 For any queries regarding the workshop or submission process, please contact the lead organizers listed above.
 
+</div>
+
 # Acknowledgments
 
+<div class="section-card">
+
 We gratefully acknowledge the support of all our organizers, additional contributors, and the NeurIPS community in making this workshop possible.
+
+</div>
