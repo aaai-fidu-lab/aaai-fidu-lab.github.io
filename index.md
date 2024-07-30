@@ -8,7 +8,7 @@ title: Home
 # Evaluating Evaluations: Examining Best Practices for Measuring Broader Impacts of Generative AI
 A workshop co-located with [NeurIPS 2024](https://neurips.cc/)
 Date: December 14 or 15, 2024 [TBD]
-<br><br>
+<br><br><br>
 
 ## Workshop Overview
 Generative AI systems are becoming increasingly prevalent in society, producing text, images, audio, and video content with far-reaching implications. While the NeurIPS Broader Impact statement has notably shifted norms for AI publications to consider negative societal impact, no standard exists for approaching these impact assessments.
