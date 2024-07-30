@@ -14,7 +14,7 @@ A workshop co-located with [NeurIPS 2024](https://neurips.cc/)
 
 *Date: December 14 or 15, 2024 [TBD]*
 
-<br><br><br>
+<br><br>
 
 ## Workshop Overview
 
