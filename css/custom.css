@@ -102,6 +102,10 @@ html, body {
 
 
 /* Styles for the Themes section */
+.themes-container {
+  margin-bottom: 20px;
+}
+
 .themes-list {
   padding-left: 20px;
 }
@@ -109,30 +113,38 @@ html, body {
 .themes-list > li {
   margin-bottom: 15px;
   list-style-type: none;
+  position: relative;
+  padding-left: 25px;
 }
 
 .themes-list > li:before {
   content: "➤";
   color: #007bff;  /* You can change this color to match your site's theme */
-  display: inline-block;
-  width: 20px;
-  margin-left: -20px;
+  position: absolute;
+  left: 0;
 }
 
 .themes-list ul {
-  padding-left: 25px;
+  padding-left: 20px;
   margin-top: 5px;
 }
 
 .themes-list ul li {
   list-style-type: none;
   margin-bottom: 5px;
+  position: relative;
+  padding-left: 20px;
 }
 
 .themes-list ul li:before {
   content: "•";
   color: #6c757d;  /* You can change this color to match your site's theme */
-  display: inline-block;
-  width: 20px;
-  margin-left: -20px;
+  position: absolute;
+  left: 0;
+}
+
+/* New styles for bold text */
+.themes-list strong {
+  color: #0056b3;  /* Darker blue for contrast, adjust as needed */
+  font-weight: 600;  /* Slightly bolder than normal text */
 }
