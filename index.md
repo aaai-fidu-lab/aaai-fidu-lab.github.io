@@ -45,12 +45,12 @@ a {
 .toc ul li {
   margin-bottom: 10px;
   position: relative;
-  padding-left: 0; /* Adjusted to 0 to remove extra space */
+  margin-left: -25px;
 }
 .toc ul li::before {
   content: "→";
   position: absolute;
-  left: -10px; /* Adjusted to align the arrow */
+  left: -50px; /* Adjusted to align the arrow */
   color: #0366d6;
 }
 .toc ul li a {
