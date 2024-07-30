@@ -2,11 +2,19 @@
 title: Home
 ---
 
+<br><br>
+
+<div class="site-banner">
+  <img src="{{ '/images/site-banner.png' | relative_url }}" alt="EvalEval 2024 Workshop Banner" class="banner-image">
+</div>
+
 # Evaluating Evaluations: Examining Best Practices for Measuring Broader Impacts of Generative AI
 
 A workshop co-located with [NeurIPS 2024](https://neurips.cc/)
 
 *Date: December 14 or 15, 2024 [TBD]*
+
+<br><br><br>
 
 ## Workshop Overview
 
