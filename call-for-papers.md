@@ -14,24 +14,29 @@ We are soliciting tiny papers (up to 2 pages long) in the following formats:
 
 We welcome submissions addressing, but not limited to, the following themes:
 
-1. **Conceptualization and operationalization issues** in evaluations of:
-   • Bias, stereotypes, and representational harms
-   • Cultural values and sensitive content
-   • Community-centered definitions of disparate performance and privacy
-   • Documentation frameworks for financial and environmental costs of evaluations
-
-2. **Ethical or consequential validity considerations** for:
-   • Data protection
-   • Data and content moderation labor
-   • Historical implications of evaluation data or practices for evaluation validity
-
-3. **Interrogating or critiquing the theoretical basis of existing evaluations**
-
-4. **Novel methodologies for evaluating social impact** across different AI modalities
-
-5. **Comparative analyses of existing evaluation frameworks** and their effectiveness
-
-6. **Case studies of social impact evaluations in real-world AI applications**
+<div class="themes-container">
+  <ol class="themes-list">
+    <li>Conceptualization and operationalization issues in evaluations of:
+      <ul>
+        <li>Bias, stereotypes, and representational harms</li>
+        <li>Cultural values and sensitive content</li>
+        <li>Community-centered definitions of disparate performance and privacy</li>
+        <li>Documentation frameworks for financial and environmental costs of evaluations</li>
+      </ul>
+    </li>
+    <li>Ethical or consequential validity considerations for:
+      <ul>
+        <li>Data protection</li>
+        <li>Data and content moderation labor</li>
+        <li>Historical implications of evaluation data or practices for evaluation validity</li>
+      </ul>
+    </li>
+    <li>Interrogating or critiquing the theoretical basis of existing evaluations</li>
+    <li>Novel methodologies for evaluating social impact across different AI modalities</li>
+    <li>Comparative analyses of existing evaluation frameworks and their effectiveness</li>
+    <li>Case studies of social impact evaluations in real-world AI applications</li>
+  </ol>
+</div>
 
 ## Submission Guidelines
 
