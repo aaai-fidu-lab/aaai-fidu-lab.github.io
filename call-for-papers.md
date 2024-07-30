@@ -5,40 +5,49 @@ nav: true
 
 <style>
   h1, h2 {
-    color: #1976D2;
     border-bottom: 1px solid #eaecef;
     padding-bottom: 0.3em;
     margin-top: 24px;
     margin-bottom: 16px;
   }
-  .themes-table {
-    width: 100%;
-    border-collapse: separate;
-    border-spacing: 0;
-    margin-bottom: 20px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    border-radius: 8px;
-    overflow: hidden;
-  }
-  .themes-table th, .themes-table td {
-    border: none;
-    padding: 12px;
-    text-align: left;
-  }
-  .themes-table th {
-    background-color: #2196F3;
-    color: white;
-    font-weight: bold;
-  }
-  .themes-table tr:nth-child(even) {
+  .themes-container {
     background-color: #f8f9fa;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   }
-  .themes-table tr:hover {
-    background-color: #e3f2fd;
-  }
-  .themes-table ul {
-    margin: 0;
+  .themes-list {
     padding-left: 20px;
+  }
+  .themes-list > li {
+    margin-bottom: 15px;
+    list-style-type: none;
+    position: relative;
+    padding-left: 25px;
+  }
+  .themes-list > li:before {
+    content: "➤";
+    color: #2196F3;
+    position: absolute;
+    left: 0;
+  }
+  .themes-list ul {
+    padding-left: 20px;
+  }
+  .themes-list ul li {
+    list-style-type: none;
+    margin-bottom: 5px;
+    position: relative;
+    padding-left: 20px;
+  }
+  .themes-list ul li:before {
+    content: "•";
+    color: #2196F3;
+    position: absolute;
+    left: 0;
+  }
+  .themes-list strong {
+    color: #2196F3;
   }
   .guidelines, .dates {
     background-color: #e3f2fd;
@@ -65,49 +74,29 @@ We are soliciting tiny papers (up to 2 pages long) in the following formats:
 
 We welcome submissions addressing, but not limited to, the following themes:
 
-<table class="themes-table">
-  <tr>
-    <th>Theme</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td><strong>Conceptualization and operationalization issues</strong></td>
-    <td>
+<div class="themes-container">
+  <ol class="themes-list">
+    <li><strong>Conceptualization and operationalization issues</strong> in evaluations of:
       <ul>
         <li><strong>Bias, stereotypes, and representational harms</strong></li>
         <li><strong>Cultural values and sensitive content</strong></li>
         <li>Community-centered definitions of <strong>Disparate performance and privacy</strong></li>
         <li>Documentation frameworks for <strong>Financial and environmental costs of models</strong></li>
       </ul>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Ethical or consequential validity considerations</strong></td>
-    <td>
+    </li>
+    <li><strong>Ethical or consequential validity considerations</strong> for:
       <ul>
         <li><strong>Data protection</strong></li>
         <li><strong>Data and content moderation labor</strong></li>
         <li><strong>Historical implications</strong> of evaluation data or practices for evaluation validity</li>
       </ul>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Theoretical basis</strong></td>
-    <td>Interrogating or critiquing the theoretical basis of existing evaluations</td>
-  </tr>
-  <tr>
-    <td><strong>Novel methodologies</strong></td>
-    <td>For evaluating social impact across different AI modalities</td>
-  </tr>
-  <tr>
-    <td><strong>Comparative analyses</strong></td>
-    <td>Of existing evaluation frameworks and their effectiveness</td>
-  </tr>
-  <tr>
-    <td><strong>Case studies</strong></td>
-    <td>Of social impact evaluations in real-world AI applications</td>
-  </tr>
-</table>
+    </li>
+    <li><strong>Interrogating or critiquing</strong> the theoretical basis of existing evaluations</li>
+    <li><strong>Novel methodologies</strong> for evaluating social impact across different AI modalities</li>
+    <li><strong>Comparative analyses</strong> of existing evaluation frameworks and their effectiveness</li>
+    <li><strong>Case studies</strong> of social impact evaluations in real-world AI applications</li>
+  </ol>
+</div>
 
 ## Submission Guidelines
 
