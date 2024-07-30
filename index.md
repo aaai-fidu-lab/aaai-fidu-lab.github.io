@@ -36,8 +36,6 @@ A key focus of this workshop is broadening the expertise involved in shaping eva
 
 **Note: Speakers for this workshop will be announced soon. Stay tuned for updates!**
 
-We invite you to join us in this important discussion and contribute to shaping the future of AI impact evaluation.
-
 
 <div class="toc" markdown="1">
 ## Contents:
