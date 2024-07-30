@@ -5,24 +5,25 @@ nav: true
 
 <style>
 .organizer-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-  gap: 20px;
+  display: flex;
+  flex-wrap: wrap;
   justify-content: center;
+  gap: 20px;
 }
 .lead-organizer-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 20px;
+  display: flex;
+  flex-wrap: wrap;
   justify-content: center;
+  gap: 20px;
 }
 .core-organizer-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 20px;
+  display: flex;
+  flex-wrap: wrap;
   justify-content: center;
+  gap: 20px;
 }
 .organizer-card {
+  flex: 0 1 200px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -41,8 +42,8 @@ nav: true
   align-items: center;
 }
 @media (max-width: 768px) {
-  .lead-organizer-grid {
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  .organizer-card {
+    flex-basis: 100%;
   }
 }
 /* Add spacing between sections */
