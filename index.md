@@ -7,7 +7,9 @@ title: Home
   background-color: #f8f9fa;
   border-radius: 8px;
   padding: 30px;
-  margin-top: 20px;
+  margin-top: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+
 }
 .site-banner {
   margin-bottom: 30px;
@@ -16,9 +18,9 @@ title: Home
 .banner-image {
   max-width: 100%;
   height: auto;
-  border-radius: 8px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
+/*   border-radius: 8px; */
+
 h1, h2, h3 {
   margin-top: 1em;
   margin-bottom: 0.5em;
