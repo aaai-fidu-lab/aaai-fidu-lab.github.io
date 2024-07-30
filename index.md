@@ -33,7 +33,7 @@ a {
   <img src="{{ '/images/site-banner.png' | relative_url }}" alt="EvalEval 2024 Workshop Banner" class="banner-image">
 </div>
 
-<div class="section-card">
+<div class="section-card" markdown="1">
 
 # Evaluating Evaluations: Examining Best Practices for Measuring Broader Impacts of Generative AI
 
@@ -43,7 +43,7 @@ A workshop co-located with [NeurIPS 2024](https://neurips.cc/)
 
 </div>
 
-<div class="section-card">
+<div class="section-card" markdown="1">
 
 ## Workshop Overview
 
@@ -53,7 +53,7 @@ This workshop addresses this critical gap by bringing together experts on evalua
 
 </div>
 
-<div class="section-card">
+<div class="section-card" markdown="1">
 
 ### Key Focus: Breadth of Participation
 
@@ -61,7 +61,7 @@ A key focus of this workshop is broadening the expertise involved in shaping eva
 
 </div>
 
-<div class="section-card">
+<div class="section-card" markdown="1">
 
 ### Workshop Objectives
 
