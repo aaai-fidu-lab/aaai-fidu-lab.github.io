@@ -1,11 +1,8 @@
+/* Existing styles */
 html, body {
   height: 100%;
   margin: 0;
   padding: 0;
-}
-
-strong {
-  font-weight: bold !important;
 }
 
 #page-container {
@@ -14,55 +11,14 @@ strong {
 }
 
 #content-wrap {
-  padding-bottom: 40px;  /* Reduced Footer height */
+  padding-bottom: 40px;  /* Footer height */
 }
 
-/* Header and Navigation Styles */
-.site-header .wrapper {
-  padding: 15px 0;
-}
-
-.header-content {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.site-logo {
-  max-height: 50px;  /* Adjust this value to fit your logo and header size */
-  width: auto;
-}
-
-.site-nav {
-  display: flex;
-  align-items: center;
-}
-
-.site-nav .nav-trigger {
-  display: none;
-}
-
-.site-nav .menu-icon {
-  display: none;
-}
-
-.site-nav .page-link {
-  color: #111;
-  line-height: 1.5;
-  margin-left: 20px;
-}
-
-.site-nav .page-link:not(:last-child) {
-  margin-right: 0;
-}
-
-/* Footer Styles */
 .site-footer {
   position: absolute;
   bottom: 0;
   width: 100%;
-  height: 35px !important;  /* Reduced fixed height of the footer */
-  padding: 0 0 !important;
+  height: 40px;  /* Fixed height of the footer */
 }
 
 .site-footer .wrapper {
@@ -72,10 +28,9 @@ strong {
 
 .footer-content {
   text-align: center;
-  font-size: 0.8em;  /* Slightly reduced font size */
-  line-height: 1.2;  /* Tightened line height */
+  font-size: 0.8em;
+  line-height: 1.2;
 }
-
 
 /* New styles for mobile menu */
 .site-nav {
@@ -131,23 +86,5 @@ strong {
 
   .site-nav .page-link:not(:last-child) {
     margin-right: 0;
-  }
-}
-
-.site-banner {
-  margin-bottom: 20px;
-  text-align: center;
-}
-
-.banner-image {
-  max-width: 100%;
-  height: auto;
-  border-radius: 8px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-}
-
-@media screen and (max-width: 600px) {
-  .site-banner {
-    margin-bottom: 15px;
   }
 }
