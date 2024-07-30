@@ -76,8 +76,8 @@ We welcome submissions addressing, but not limited to, the following themes:
 
 <div class="container" markdown="1">
 
-- Submission Deadline: September 20, 2024 AOE
-- Notification of Acceptance: October 14, 2024 AOE
-- Workshop Date: December 14 or 15, 2024 [TBD]
+- Submission Deadline: **September 20, 2024 AOE**
+- Notification of Acceptance: **October 14, 2024 AOE**
+- Workshop Date: **December 14 or 15, 2024 [TBD]**
 
 </div>
