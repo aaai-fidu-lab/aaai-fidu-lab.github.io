@@ -48,7 +48,7 @@ h1 {
   margin-bottom: 0.5em;
 }
 h2 {
-  margin-top: 2em;  /* Increased from 1.5em */
+  margin-top: 1em;  /* Increased from 1.5em */
   margin-bottom: 0.5em;
 }
 a {
