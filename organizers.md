@@ -46,7 +46,6 @@ nav: true
 }
 h1 {
   margin-bottom: 0.5em;
-  margin-top: 1.5em;  /* Added to increase space above main headings */
 }
 h2 {
   margin-top: 2em;  /* Increased from 1.5em */
