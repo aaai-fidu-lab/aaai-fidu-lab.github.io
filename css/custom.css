@@ -42,6 +42,11 @@ html, body {
   display: none;
 }
 
+.site-logo {
+  max-height: 35px;  
+  width: auto;
+}
+
 .site-nav .menu-icon {
   display: none;
 }
@@ -55,6 +60,11 @@ html, body {
     border: 1px solid #e8e8e8;
     border-radius: 5px;
     text-align: right;
+  }
+
+  .site-logo {
+    max-height: 30px;  /* Even smaller on mobile devices */
+    margin-bottom: 10px;
   }
 
   .site-nav .menu-icon {
