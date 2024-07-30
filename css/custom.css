@@ -92,3 +92,14 @@ strong{
     margin-right: 0;
   }
 }
+
+.site-logo {
+  max-height: 50px;  /* Adjust this value to fit your logo and header size */
+  width: auto;
+}
+
+@media screen and (max-width: 600px) {
+  .site-logo {
+    max-height: 40px;  /* Slightly smaller on mobile devices */
+  }
+}
