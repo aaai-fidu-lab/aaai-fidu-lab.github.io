@@ -8,16 +8,19 @@ nav: true
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
   gap: 20px;
+  justify-content: center;
 }
 .lead-organizer-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 20px;
+  justify-content: center;
 }
 .core-organizer-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   gap: 20px;
+  justify-content: center;
 }
 .organizer-card {
   display: flex;
@@ -38,17 +41,9 @@ nav: true
   align-items: center;
 }
 @media (max-width: 768px) {
-  .lead-organizer-grid, .core-organizer-grid {
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  .lead-organizer-grid {
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   }
-}
-/* Center the last row when there's an odd number of items */
-.core-organizer-grid::after {
-  content: "";
-  grid-column: span 1;
-}
-.core-organizer-grid > *:last-child:nth-child(3n - 1) {
-  grid-column-start: 2;
 }
 /* Add spacing between sections */
 h1 {
@@ -111,7 +106,7 @@ h1 {
       <span>Ph.D. student, Iowa State University</span>
       <a href="mailto:ugohar@iastate.edu">ugohar@iastate.edu</a>
     </div>
-  </div>
+  </div>  
   <div class="organizer-card">
     <img src="images/jennifer-mickel.jpg" alt="Jennifer Mickel" class="organizer-photo">
     <div class="organizer-info">
@@ -120,7 +115,7 @@ h1 {
       <a href="mailto:jamickel@utexas.edu">jamickel@utexas.edu</a>
     </div>
   </div>
-  <div class="organizer-card">
+    <div class="organizer-card">
     <img src="images/lucie-aimee-kaffee.jpg" alt="Lucie-Aimée Kaffee" class="organizer-photo">
     <div class="organizer-info">
       <strong>Lucie-Aimée Kaffee</strong>
@@ -129,19 +124,19 @@ h1 {
     </div>
   </div>
   <div class="organizer-card">
-    <img src="images/alberto-lusoli.jpg" alt="Alberto Lusoli" class="organizer-photo">
-    <div class="organizer-info">
-      <strong>Alberto Lusoli</strong>
-      <span>Digital Democracies Institute Deputy Director, Simon Fraser University</span>
-      <a href="mailto:alberto.lusoli@gmail.com">alberto.lusoli@gmail.com</a>
-    </div>
-  </div>
-  <div class="organizer-card">
     <img src="images/arjun-subramonian.jpg" alt="Arjun Subramonian" class="organizer-photo">
     <div class="organizer-info">
       <strong>Arjun Subramonian</strong>
       <span>Computer Science PhD candidate, UCLA</span>
       <a href="mailto:arjunsub@cs.ucla.edu">arjunsub@cs.ucla.edu</a>
+    </div>
+  </div>
+  <div class="organizer-card">
+    <img src="images/alberto-lusoli.jpg" alt="Alberto Lusoli" class="organizer-photo">
+    <div class="organizer-info">
+      <strong>Alberto Lusoli</strong>
+      <span>Digital Democracies Institute Deputy Director, Simon Fraser University</span>
+      <a href="mailto:alberto.lusoli@gmail.com">alberto.lusoli@gmail.com</a>
     </div>
   </div>
   <div class="organizer-card">
