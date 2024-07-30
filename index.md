@@ -50,12 +50,13 @@ a {
 .toc ul li::before {
   content: "→";
   position: absolute;
-  left: -50px; /* Adjusted to align the arrow */
+  left: -40px; /* Adjusted to align the arrow */
   color: #0366d6;
 }
 .toc ul li a {
   text-decoration: none;
   color: #0366d6;
+  margin-left: -10px;
 }
 .toc ul li a:hover {
   text-decoration: underline;
