@@ -40,15 +40,16 @@ nav: true
   background-color: #f8f9fa;
   border-radius: 8px;
   padding: 20px 30px;
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin-top: 40px;  /* Increased from 20px */
+  margin-bottom: 40px;  /* Increased from 20px */
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
-h1{
+h1 {
   margin-bottom: 0.5em;
+  margin-top: 1.5em;  /* Added to increase space above main headings */
 }
 h2 {
-  margin-top: 1.5em;
+  margin-top: 2em;  /* Increased from 1.5em */
   margin-bottom: 0.5em;
 }
 a {
@@ -58,6 +59,11 @@ a {
   .organizer-card {
     flex-basis: 100%;
   }
+}
+/* Additional rule to add space between sections */
+.section-card + h1, 
+.section-card + h2 {
+  margin-top: 3em;  /* Adds extra space after each section card */
 }
 </style>
 
