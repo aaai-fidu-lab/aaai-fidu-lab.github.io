@@ -4,8 +4,8 @@ html, body {
   padding: 0;
 }
 
-strong{
- font-weight:bold !important;
+strong {
+  font-weight: bold !important;
 }
 
 #page-container {
@@ -17,6 +17,32 @@ strong{
   padding-bottom: 40px;  /* Reduced Footer height */
 }
 
+/* Header and Navigation Styles */
+.site-header .wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.site-logo {
+  max-height: 50px;  /* Adjust this value to fit your logo and header size */
+  width: auto;
+}
+
+.site-nav {
+  display: flex;
+  align-items: center;
+}
+
+.site-nav .nav-trigger {
+  display: none;
+}
+
+.site-nav .menu-icon {
+  display: none;
+}
+
+/* Footer Styles */
 .site-footer {
   position: absolute;
   bottom: 0;
@@ -36,22 +62,20 @@ strong{
   line-height: 1.2;  /* Tightened line height */
 }
 
-/* New styles for mobile menu */
-.site-nav {
-  float: right;
-  position: relative;
-}
-
-.site-nav .nav-trigger {
-  display: none;
-}
-
-.site-nav .menu-icon {
-  display: none;
-}
-
+/* Mobile Styles */
 @media screen and (max-width: 600px) {
+  .site-header .wrapper {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .site-logo {
+    max-height: 40px;  /* Slightly smaller on mobile devices */
+    margin-bottom: 10px;
+  }
+
   .site-nav {
+    align-self: flex-end;
     position: absolute;
     top: 9px;
     right: 15px;
@@ -90,16 +114,5 @@ strong{
 
   .site-nav .page-link:not(:last-child) {
     margin-right: 0;
-  }
-}
-
-.site-logo {
-  max-height: 50px;  /* Adjust this value to fit your logo and header size */
-  width: auto;
-}
-
-@media screen and (max-width: 600px) {
-  .site-logo {
-    max-height: 40px;  /* Slightly smaller on mobile devices */
   }
 }
