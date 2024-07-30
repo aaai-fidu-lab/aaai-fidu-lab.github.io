@@ -10,29 +10,33 @@ nav: true
     margin-top: 24px;
     margin-bottom: 16px;
   }
-  .themes-container {
-    background-color: #f8f9fa;
-    border-radius: 8px;
-    padding: 20px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  }
-  .themes-list {
-    padding-left: 20px;
-  }
-  .themes-list > li {
-    margin-bottom: 15px;
-  }
-  .themes-list ul {
-    padding-left: 20px;
-  }
-  .themes-list strong {
-    color: #2196F3;
-  }
-  .guidelines, .dates {
+  .themes-container, .guidelines, .dates {
     background-color: #e3f2fd;
     border-radius: 8px;
     padding: 20px;
     margin-top: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  .themes-list {
+    padding-left: 0;
+    list-style-type: none;
+  }
+  .themes-list > li {
+    margin-bottom: 15px;
+    padding: 10px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    border-left: 4px solid #2196F3;
+  }
+  .themes-list ul {
+    padding-left: 20px;
+    margin-top: 10px;
+  }
+  .themes-list ul li {
+    margin-bottom: 5px;
+  }
+  .themes-list strong {
+    color: #2196F3;
   }
   a {
     color: #2196F3;
