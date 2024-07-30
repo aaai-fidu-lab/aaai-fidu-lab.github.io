@@ -21,10 +21,14 @@ nav: true
 
 # Call for Tiny Papers
 
+<div class="container" markdown="1">
+
 We are soliciting tiny papers (up to 2 pages long) in the following formats:
 
 1. **Extended Abstracts**: Short but complete research papers presenting original or interesting results around social impact evaluation for generative AI.
 2. **"Provocations"**: Novel perspectives or challenges to conventional wisdom around social impact evaluation for generative AI.
+
+</div>
 
 ## Themes for Submissions
 
@@ -37,11 +41,13 @@ We welcome submissions addressing, but not limited to, the following themes:
   - Cultural values and sensitive content
   - Community-centered definitions of disparate performance and privacy
   - Documentation frameworks for financial and environmental costs of models
+    
 
 - <span class="highlight">Ethical or consequential validity considerations</span> for:
   - Data protection
   - Data and content moderation labor
   - Historical implications of evaluation data or practices for evaluation validity
+    
 
 - <span class="highlight">Interrogating or critiquing</span> the theoretical basis of existing evaluations
 
