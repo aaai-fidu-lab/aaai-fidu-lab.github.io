@@ -189,13 +189,6 @@ a {
 
 </div>
 
-# Contact Information
-
-<div class="section-card">
-
-For any queries regarding the workshop or submission process, please contact the lead organizers listed above.
-
-</div>
 
 # Acknowledgments
 
