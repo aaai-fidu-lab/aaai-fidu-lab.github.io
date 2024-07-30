@@ -4,45 +4,16 @@ nav: true
 ---
 
 <style>
-  h1, h2 {
-    border-bottom: 1px solid #eaecef;
-    padding-bottom: 0.3em;
-    margin-top: 24px;
-    margin-bottom: 16px;
+  .highlight {
+    color: #2196F3;
+    font-weight: bold;
   }
-  .themes-container, .guidelines, .dates {
-    background-color: #e3f2fd;
+  .container {
+    background-color: #f8f9fa;
     border-radius: 8px;
     padding: 20px;
     margin-top: 20px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  }
-  .themes-list {
-    padding-left: 0;
-    list-style-type: none;
-  }
-  .themes-list > li {
-    margin-bottom: 15px;
-    padding: 10px;
-    background-color: #ffffff;
-    border-radius: 5px;
     border-left: 4px solid #2196F3;
-  }
-  .themes-list ul {
-    padding-left: 20px;
-    margin-top: 10px;
-  }
-  .themes-list ul li {
-    margin-bottom: 5px;
-  }
-  .themes-list strong {
-    color: #2196F3;
-  }
-  a {
-    color: #2196F3;
-  }
-  a:hover {
-    text-decoration: underline;
   }
 </style>
 
@@ -57,33 +28,32 @@ We are soliciting tiny papers (up to 2 pages long) in the following formats:
 
 We welcome submissions addressing, but not limited to, the following themes:
 
-<div class="themes-container">
-  <ol class="themes-list">
-    <li><strong>Conceptualization and operationalization issues</strong> in evaluations of:
-      <ul>
-        <li><strong>Bias, stereotypes, and representational harms</strong></li>
-        <li><strong>Cultural values and sensitive content</strong></li>
-        <li>Community-centered definitions of <strong>Disparate performance and privacy</strong></li>
-        <li>Documentation frameworks for <strong>Financial and environmental costs of models</strong></li>
-      </ul>
-    </li>
-    <li><strong>Ethical or consequential validity considerations</strong> for:
-      <ul>
-        <li><strong>Data protection</strong></li>
-        <li><strong>Data and content moderation labor</strong></li>
-        <li><strong>Historical implications</strong> of evaluation data or practices for evaluation validity</li>
-      </ul>
-    </li>
-    <li><strong>Interrogating or critiquing</strong> the theoretical basis of existing evaluations</li>
-    <li><strong>Novel methodologies</strong> for evaluating social impact across different AI modalities</li>
-    <li><strong>Comparative analyses</strong> of existing evaluation frameworks and their effectiveness</li>
-    <li><strong>Case studies</strong> of social impact evaluations in real-world AI applications</li>
-  </ol>
+<div class="container" markdown="1">
+
+- <span class="highlight">Conceptualization and operationalization issues</span> in evaluations of:
+  - Bias, stereotypes, and representational harms
+  - Cultural values and sensitive content
+  - Community-centered definitions of disparate performance and privacy
+  - Documentation frameworks for financial and environmental costs of models
+
+- <span class="highlight">Ethical or consequential validity considerations</span> for:
+  - Data protection
+  - Data and content moderation labor
+  - Historical implications of evaluation data or practices for evaluation validity
+
+- <span class="highlight">Interrogating or critiquing</span> the theoretical basis of existing evaluations
+
+- <span class="highlight">Novel methodologies</span> for evaluating social impact across different AI modalities
+
+- <span class="highlight">Comparative analyses</span> of existing evaluation frameworks and their effectiveness
+
+- <span class="highlight">Case studies</span> of social impact evaluations in real-world AI applications
+
 </div>
 
 ## Submission Guidelines
 
-<div class="guidelines" markdown="1">
+<div class="container" markdown="1">
 
 - Paper Length: Maximum 2 pages, excluding unlimited pages for references
 - Format: PDF file, using the [NeurIPS 2024 LaTeX style file](https://neurips.cc/Conferences/2024/PaperInformation/StyleFiles)
@@ -96,7 +66,7 @@ We welcome submissions addressing, but not limited to, the following themes:
 
 ## Important Dates
 
-<div class="dates" markdown="1">
+<div class="container" markdown="1">
 
 - Submission Deadline: September 20, 2024 AOE
 - Notification of Acceptance: October 14, 2024 AOE
