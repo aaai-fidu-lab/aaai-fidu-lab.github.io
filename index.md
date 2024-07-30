@@ -40,7 +40,7 @@ a {
 }
 .toc ul {
   list-style-type: none;
-  padding-left: 0;
+  padding-left: 10px;
 }
 .toc ul li {
   margin-bottom: 10px;
@@ -50,7 +50,7 @@ a {
 .toc ul li::before {
   content: "→";
   position: absolute;
-  left: -15px; /* Adjusted to align the arrow */
+  left: -10px; /* Adjusted to align the arrow */
   color: #0366d6;
 }
 .toc ul li a {
