@@ -52,7 +52,6 @@ nav: true
 }
 /* Add spacing between sections */
 h1 {
-  margin-top: 2em;
   margin-bottom: 1em;
   padding-bottom: 0.5em;
   border-bottom: 1px solid #eaecef;
