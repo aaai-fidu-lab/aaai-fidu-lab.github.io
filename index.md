@@ -46,7 +46,7 @@ a {
 .toc ul li {
   margin-bottom: 10px;
   position: relative;
-  padding-left: 20px;
+  padding-left: 5px;
 }
 .toc ul li::before {
   content: "→";
