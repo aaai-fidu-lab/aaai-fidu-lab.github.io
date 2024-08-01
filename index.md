@@ -81,7 +81,7 @@ Date: December 14 or 15, 2024 [TBD]
 
 ## Workshop Overview
 
-Generative AI systems are becoming increasingly prevalent in society, producing text, images, audio, and video content with far-reaching implications. While the NeurIPS Broader Impact statement has notably shifted norms for AI publications to consider negative societal impact, no standard exists for approaching these impact assessments.
+Generative AI systems are becoming increasingly prevalent in society, producing text, images, audio, and video content with far-reaching implications. While the NeurIPS Broader Impact statement has notably shifted norms for AI publications to consider negative societal impact, [no standard exists](https://arxiv.org/pdf/2306.05949) for approaching these impact assessments.
 
 This workshop addresses this critical gap by bringing together experts on evaluation science and practitioners who develop and analyze technical systems. We will share existing findings, develop future directions for effective community-driven evaluations, and create comprehensive frameworks for documenting and standardizing evaluation practices.
 
