@@ -78,11 +78,11 @@ We welcome submissions addressing, but not limited to, the following themes:
 ## Submission Guidelines
 
 <div class="container" markdown="1">
-- **Paper Length**: Maximum 2 pages, excluding unlimited pages for references
+- **Paper Length**: Maximum 2 pages, excluding unlimited pages for references.
 - **Format**: PDF file, using the [NeurIPS 2024 LaTeX style file](https://media.neurips.cc/Conferences/NeurIPS2024/Styles.zip)
 - **Submission Portal**: [OpenReview]({{ site.submission_url }})
-- **Anonymity**: Submissions should be anonymous for two-way anonymized review
-- **Archival**: Papers will be archived, and optionally we ask the speakers to make their talk slides public too. Papers and slides will be linked on the workshop website when available
+- **Anonymity**: Submissions should be anonymous for two-way anonymized review.
+- **Archival**: Papers will be archived, and optionally we ask the speakers to make their talk slides public too. Papers and slides will be linked to the workshop website when they are available. However, there will be no proceedings.
 - This is a participatory, in-person event. Accepted Authors are encouraged to present their work and discuss it at the event.
 - Broader impact statement and Limitation section are not counted in the paper length.
 </div>
