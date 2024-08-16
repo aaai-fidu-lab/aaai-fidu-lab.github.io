@@ -4,32 +4,65 @@ nav: true
 ---
 
 <style>
-.card-container {
+.speaker-container {
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
-  align-items: center;
-  min-height: 50vh;
+  gap: 20px;
   padding: 20px;
 }
-
-.card {
+.speaker-card {
   background-color: #f8f9fa;
   border-radius: 8px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  padding: 30px;
-  max-width: 600px;
-  width: 100%;
+  padding: 20px;
+  width: 300px;
   text-align: center;
 }
-.emoji {
-  font-size: 48px;
-  margin-bottom: 20px;
+.speaker-image {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin: 0 auto 20px;
+}
+.speaker-name {
+  font-size: 1.2em;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+.speaker-bio {
+  text-align: justify;
+  font-size: 0.9em;
 }
 </style>
 
-<div class="card-container">
-  <div class="card">
-    <div class="emoji">🎙️</div>
-    <p>We are excited to bring together a stellar group of experts to discuss the critical topic of evaluating the broader impacts of generative AI systems.</p>
-    <p><strong>Speakers will be announced soon. Stay tuned for updates!</strong></p>
+# Speakers
+
+We are excited to bring together a stellar group of experts to discuss the critical topic of evaluating the broader impacts of generative AI systems.
+
+<div class="speaker-container">
+  <div class="speaker-card">
+    <img src="https://via.placeholder.com/150" alt="Abeba Birhane" class="speaker-image">
+    <div class="speaker-name">Abeba Birhane</div>
+    <p class="speaker-bio">
+      Abeba Birhane is an Ethiopian-born cognitive scientist working at the intersection of complex adaptive systems, machine learning, algorithmic bias, and critical race studies, and received her Ph.D. at the Complex Software Lab in the School of Computer Science at University College Dublin. Her groundbreaking work has uncovered racist and misogynistic labels in large-scale image datasets commonly used in AI systems. Recognized as a top innovator in computer vision by VentureBeat and named one of the 100 most influential persons in AI 2023 by TIME magazine, Birhane's research continues to shape critical discussions in AI ethics and fairness.
+    </p>
   </div>
+
+  <div class="speaker-card">
+    <img src="https://via.placeholder.com/150" alt="Abigail Jacobs" class="speaker-image">
+    <div class="speaker-name">Abigail Jacobs</div>
+    <p class="speaker-bio">
+      Abigail Jacobs is an Assistant Professor of Information at the University of Michigan School of Information and an Assistant Professor of Complex Systems in the College of Literature, Science, and the Arts. As a 2024 Microsoft Research AI & Society Fellow, her research focuses on measurement and hidden assumptions in machine learning, structure, governance, and inequality in sociotechnical systems, and social networks. With a PhD in Computer Science from the University of Colorado Boulder, Jacobs brings a wealth of experience from her postdoctoral work at UC Berkeley and her involvement with Women in Machine Learning.
+    </p>
+  </div>
+
+  <div class="speaker-card">
+    <img src="https://via.placeholder.com/150" alt="Su Lin Blodgett" class="speaker-image">
+    <div class="speaker-name">Su Lin Blodgett</div>
+    <p class="speaker-bio">
+      Su Lin Blodgett is a senior researcher in the Fairness, Accountability, Transparency, and Ethics in AI (FATE) group at Microsoft Research Montréal. Her work focuses on examining the social and ethical implications of natural language processing technologies, developing approaches for anticipating, measuring, and mitigating harms arising from language technologies. With a Ph.D. in computer science from the University of Massachusetts Amherst and experience as an NSF Graduate Research Fellow, Blodgett brings a unique perspective to the critical discussions surrounding the evaluation and impact of generative AI systems.
+    </p>
+  </div>
+</div>
