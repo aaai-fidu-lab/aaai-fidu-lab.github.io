@@ -84,4 +84,16 @@ We are excited to bring together a stellar group of experts to discuss the criti
       </p>
     </div>
   </div>
+
+
+ <div class="speaker-card">
+    <img src="images/wansie.jpg" alt="Lee Wan Sie" class="speaker-image">
+    <div class="speaker-info">
+      <div class="speaker-name">Lee Wan Sie</div>
+      <p class="speaker-bio">
+        Lee Wan Sie is the Director for Data-Driven Tech at Singapore's Infocomm Media Development Authority. She leads AI governance efforts, fosters a trustworthy AI ecosystem, and collaborates globally on safe, responsible AI. Her role includes developing AI regulatory policies and promoting emergent data technologies like privacy-enhancing tech. With extensive public sector experience, she previously shaped Singapore’s Digital Economy and Smart Nation strategies, led tech innovation at IDA Labs, and implemented government digital services. Internationally, she has supported national digitalization efforts and actively champions Women in Tech in Singapore.
+      </p>
+    </div>
+  </div>
+  
 </div>
