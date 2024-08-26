@@ -72,7 +72,8 @@ a {
 
 A workshop co-located with [NeurIPS 2024](https://neurips.cc/)
 
-Date: December 14 or 15, 2024 [TBD]
+Date: December 15, 2024
+Venue: MTG 16
 
 
 <br>
