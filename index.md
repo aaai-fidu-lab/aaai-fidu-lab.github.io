@@ -73,7 +73,8 @@ a {
 A workshop co-located with [NeurIPS 2024](https://neurips.cc/)
 
 Date: December 15, 2024
-Venue: MTG 16
+
+Room: MTG 16
 
 
 <br>
