@@ -82,7 +82,7 @@ We welcome submissions addressing, but not limited to, the following themes:
 - **Format**: PDF file, using the [NeurIPS 2024 LaTeX style file](https://media.neurips.cc/Conferences/NeurIPS2024/Styles.zip)
 - **Submission Portal**: [OpenReview]({{ site.submission_url }})
 - **Anonymity**: Submissions should be anonymous for two-way anonymized review.
-- **Archival**: Papers will be archived, and optionally we ask the speakers to make their talk slides public too. Papers and slides will be linked to the workshop website when they are available. Co-submission of a tiny paper that is also appearing as a longer version in the main conference is allowed.
+- **Archival**: Papers, along with speaker slides for those who choose to opt in, will be archived and linked on the workshop website once available. However, there will be no formal proceedings or published records. Co-submission of a tiny paper that is also appearing as a longer version in the main conference is allowed.
 - This is a participatory, in-person event. Accepted Authors are encouraged to present their work and discuss it at the event.
 - Broader impact statement and Limitation section are not counted in the paper length.
 </div>
