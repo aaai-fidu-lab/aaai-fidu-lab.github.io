@@ -94,13 +94,6 @@ a {
       <a href="mailto:z@zeerak.org">z@zeerak.org</a>
     </div>
   </div>
-</div>
-</div>
-
-# Core Organizers
-
-<div class="section-card">
-<div class="core-organizer-grid">
   <div class="organizer-card">
     <img src="images/yacine-jernite.jpg" alt="Yacine Jernite" class="organizer-photo">
     <div class="organizer-info">
@@ -109,6 +102,13 @@ a {
       <a href="mailto:yacine@huggingface.co">yacine@huggingface.co</a>
     </div>
   </div>
+</div>
+</div>
+
+# Core Organizers
+
+<div class="section-card">
+<div class="core-organizer-grid">
   <div class="organizer-card">
     <img src="images/usman-gohar.jpg" alt="Usman Gohar" class="organizer-photo">
     <div class="organizer-info">
