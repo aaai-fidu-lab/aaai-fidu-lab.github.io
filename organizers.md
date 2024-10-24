@@ -10,21 +10,35 @@ nav: true
   justify-content: center;
   gap: 20px;
 }
-.lead-organizer-grid, .core-organizer-grid {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
+.lead-organizer-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 30px;
+  margin-bottom: 2em;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.core-organizer-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
   gap: 20px;
   margin-bottom: 2em;
 }
 .organizer-card {
-  flex: 0 1 200px;
   display: flex;
   flex-direction: column;
   align-items: center;
   text-align: center;
 }
-.organizer-photo {
+.lead-organizer-grid .organizer-photo {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 15px;
+}
+.core-organizer-grid .organizer-photo {
   width: 150px;
   height: 150px;
   border-radius: 50%;
@@ -40,29 +54,31 @@ nav: true
   background-color: #f8f9fa;
   border-radius: 8px;
   padding: 20px 30px;
-  margin-top: 40px;  /* Increased from 20px */
-  margin-bottom: 40px;  /* Increased from 20px */
+  margin-top: 40px;
+  margin-bottom: 40px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 h1 {
   margin-bottom: 0.5em;
 }
 h2 {
-  margin-top: 1em;  /* Increased from 1.5em */
+  margin-top: 1em;
   margin-bottom: 0.5em;
 }
 a {
   color: #0366d6;
 }
 @media (max-width: 768px) {
-  .organizer-card {
-    flex-basis: 100%;
+  .lead-organizer-grid {
+    grid-template-columns: 1fr;
+  }
+  .core-organizer-grid {
+    grid-template-columns: 1fr;
   }
 }
-/* Additional rule to add space between sections */
 .section-card + h1, 
 .section-card + h2 {
-  margin-top: 3em;  /* Adds extra space after each section card */
+  margin-top: 3em;
 }
 </style>
 
@@ -164,6 +180,7 @@ a {
 
 <div class="section-card" markdown="1">
 
+- Cedric Whitney (University of California, Berkeley)
 - William Agnew (University of Washington)
 - Lama Ahmad (OpenAI)
 - Dylan Baker (DAIR)
@@ -179,7 +196,7 @@ a {
 - Xiuzhu Lin (Independent)
 - Sasha Luccioni (Hugging Face)
 - Margaret Mitchell (Hugging Face)
-- Jessica Newman (UC Berkeley)
+- Jessica Newman (University of California, Berkeley)
 - Anaelia Ovalle (University of California, Los Angeles)
 - Marie-Therese Png (Oxford University)
 - Levent Sagun (Independent)
