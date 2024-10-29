@@ -34,7 +34,7 @@ The following tiny papers have been accepted to the EvalEval Workshop at NeurIPS
   *Kevin Klyman*
 
 * **Evaluating Generative AI Systems is a Social Science Measurement Challenge**  
-  *Hanna Wallach, Meera Desai, Nicholas J Pangakis, A. Feder Cooper, Angelina Wang, Solon Barocas, Alexandra Chouldechova, Chad Atalla, Su Lin Blodgett, Emily Corvi, P. Alex Dow, Jean Garcia-Gathright, Alexandra Olteanu, Stefanie Reed, Emily Sheng et al.*
+  *Hanna Wallach, Meera Desai, Nicholas J Pangakis, A. Feder Cooper, Angelina Wang, Solon Barocas, Alexandra Chouldechova, Chad Atalla, Su Lin Blodgett, Emily Corvi, P. Alex Dow, Jean Garcia-Gathright, Alexandra Olteanu, Stefanie Reed, Emily Sheng, Dan Vann, Jennifer Wortman Vaughan, Matthew Vogel, Hannah Washington, Abigail Z Jacobs.*
 
 ## Poster Presentations
 
@@ -90,7 +90,7 @@ The following tiny papers have been accepted to the EvalEval Workshop at NeurIPS
   *Krishna Patel, Nivedha Sivakumar, Barry-John Theobald, Luca Zappella, Nicholas Apostoloff*
 
 * **Democratic Perspectives and Corporate Captures of Crowdsourced Evaluations**  
-  *Parth Sarin, Michelle Bao*
+  *parth sarin, Michelle Bao*
 
 * **LLMs and Personalities: Inconsistencies Across Scales**  
   *Tosato Tommaso, Lemay David, Mahmood Hegazy, Irina Rish, Guillaume Dumas*
