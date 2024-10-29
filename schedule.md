@@ -88,7 +88,7 @@ nav: true
   }
 </style>
 
-# Workshop Structure (Tentative)
+# Workshop Schedule (Tentative)
 
 <table class="schedule-table">
   <thead>
@@ -104,71 +104,88 @@ nav: true
       <td class="session-column">Welcome and Introduction</td>
       <td class="description-column">
         <ul>
-          <li>Opening remarks</li>
-          <li>Overview of workshop structure and objectives</li>
+          <li>Opening Remarks</li>
+          <li>Overview of Workshop Structure and Objectives</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td class="time-column">09:30 - 11:00</td>
-      <td class="session-column">Reflections on the Landscape</td>
+      <td class="time-column">09:30 - 10:30</td>
+      <td class="session-column">Opening Panel: Reflections on the Landscape</td>
       <td class="description-column">
         <ul>
-          <li>Collaborative reflection on the existing landscape</li>
-          <li>Talks, panels, and breakouts by modality (text, images, audio, video, and multimodal data)</li>
+          <li>Panel Discussion on AI Evaluation Challenges</li>
+          <li>Panelists: Abeba Birhane, Su Lin Blodgett, Abigail Jacobs, Lee Wan Sie</li>
           <li>Topics:
             <ul>
-              <li>Underlying frameworks</li>
-              <li>Contextualization challenges</li>
-              <li>Defining robust evaluations</li>
-              <li>Incentive structures</li>
+              <li>Underlying frameworks and incentive structures</li>
+              <li>Defining robust evaluations and contextual challenges</li>
+              <li>Multimodal evaluation needs (text, images, audio, video)</li>
             </ul>
           </li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td class="time-column">11:00 - 11:15</td>
+      <td class="time-column">10:30 - 11:15</td>
+      <td class="session-column">Oral Session 1: Provocations and Ethics in AI Evaluation</td>
+      <td class="description-column">
+        <ul>
+          <li>"Provocation: Who benefits from 'inclusion' in Generative AI?"</li>
+          <li>"(Mis)use of nude images in machine learning research"</li>
+          <li>"Evaluating Refusal"</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td class="time-column">11:15 - 11:30</td>
       <td class="session-column">Break</td>
       <td class="description-column"></td>
     </tr>
     <tr>
-      <td class="time-column">11:15 - 12:45</td>
-      <td class="session-column">Talks + Provocations</td>
+      <td class="time-column">11:30 - 12:15</td>
+      <td class="session-column">Oral Session 2: Multimodal and Cross-Cultural Evaluation Methods</td>
       <td class="description-column">
         <ul>
-          <li>Invited speakers on current technical evaluations for base models across all modalities</li>
-          <li>Key social impact categories covered:
-            <ul>
-              <li>Bias and stereotyping</li>
-              <li>Cultural values</li>
-              <li>Performance disparities</li>
-              <li>Privacy</li>
-              <li>Financial and environmental costs</li>
-              <li>Data moderator labor</li>
-            </ul>
-          </li>
-          <li>Presentations of accepted provocations</li>
+          <li>"JMMMU: A Japanese Massive Multi-discipline Multimodal Understanding Benchmark"</li>
+          <li>"Critical human-AI use scenarios and interaction modes for societal impact evaluations"</li>
+          <li>"Cascaded to End-to-End: New Safety, Security, and Evaluation Questions for Audio Language Models"</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td class="time-column">12:45 - 13:45</td>
-      <td class="session-column">Lunch Break</td>
-      <td class="description-column"></td>
-    </tr>
-    <tr>
-      <td class="time-column">13:45 - 15:45</td>
-      <td class="session-column">Group Activity</td>
+      <td class="time-column">12:15 - 14:15</td>
+      <td class="session-column">Lunch and Poster Session</td>
       <td class="description-column">
         <ul>
-          <li>Participants break into groups focusing on key social impact categories</li>
+          <li>12:15 - 12:45 PM: Lunch setup and networking</li>
+          <li>12:45 - 14:15 PM: Poster presentations</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td class="time-column">14:15 - 15:00</td>
+      <td class="session-column">Oral Session 3: Systematic Approaches to AI Impact Assessment</td>
+      <td class="description-column">
+        <ul>
+          <li>"GenAI Maturity Evaluation Framework (GEMF)"</li>
+          <li>"AIR-Bench 2024: Safety Evaluation Based on Risk Categories"</li>
+          <li>"Evaluating Generative AI Systems is a Social Science Measurement Challenge"</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td class="time-column">15:00 - 15:45</td>
+      <td class="session-column">Group Activity: Building Evaluation Frameworks</td>
+      <td class="description-column">
+        <ul>
+          <li>Breakout Groups on Key Social Impact Categories</li>
           <li>Activities include:
-            <ol>
-              <li>Choosing Evaluations: Determining how to select evaluations from a large repository</li>
-              <li>Reviewing Tools and Datasets: Assessing existing artifacts and identifying gaps</li>
-              <li>Examining construct reliability, validity, and ranking methodologies</li>
-            </ol>
+            <ul>
+              <li>Choosing Evaluations: Selecting relevant evaluations from a large repository</li>
+              <li>Reviewing Tools and Datasets: Assessment of current tools and gaps</li>
+              <li>Evaluating Reliability and Validity: Exploring construct validity and ranking methods</li>
+            </ul>
           </li>
         </ul>
       </td>
@@ -180,18 +197,19 @@ nav: true
     </tr>
     <tr>
       <td class="time-column">16:00 - 17:45</td>
-      <td class="session-column">What's Next? Documentation + Resources</td>
+      <td class="session-column">What's Next? Coalition Development</td>
       <td class="description-column">
         <ul>
-          <li>Develop policy guidance highlighting impact categories, subcategories, and modalities requiring further investment</li>
-          <li>Discussions on:
-            <ol>
-              <li>Documenting Methods: Creating a proposed framework for documenting evaluations</li>
-              <li>Developing Shareable Resources: Improving evaluation repository and conceptualizing improved resources</li>
-              <li>Underlying Frameworks: Examining foundational frameworks influencing evaluations</li>
-              <li>Contextualization Challenges: Identifying challenges in contextualizing evaluations across different contexts</li>
-              <li>Defining Robust Evaluations: Establishing criteria for robust and meaningful evaluations</li>
-            </ol>
+          <li>Overview of Ongoing Social Impact Projects</li>
+          <li>Interactive Discussion: Launching the Coalition on Social Impact Evaluation</li>
+          <li>Topics include:
+            <ul>
+              <li>Developing criteria for evaluating evaluations</li>
+              <li>Creating proposed documentation standards</li>
+              <li>Building out resource repositories</li>
+              <li>Conducting reviews and publishing annual scorecards</li>
+              <li>Establishing next steps for collaboration and coalition goals</li>
+            </ul>
           </li>
         </ul>
       </td>
@@ -199,7 +217,11 @@ nav: true
     <tr>
       <td class="time-column">17:45 - 18:00</td>
       <td class="session-column">Closing Remarks</td>
-      <td class="description-column"></td>
+      <td class="description-column">
+        <ul>
+          <li>Summary of key insights and next steps</li>
+        </ul>
+      </td>
     </tr>
   </tbody>
 </table>
