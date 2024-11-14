@@ -27,7 +27,7 @@ The following tiny papers have been accepted to the EvalEval Workshop at NeurIPS
 * **Cascaded to End-to-End: New Safety, Security, and Evaluation Questions for Audio Language Models**  
   *Luxi He, Xiangyu Qi, Inyoung Cheong, Prateek Mittal, Danqi Chen, Peter Henderson*
 
-* **GenAI Maturity Evaluation Framework (GEMF)**  
+* **GenAI Evaluation Maturity Framework (GEMF)**  
   *Yilin Zhang, Frank J Kanayet*
 
 * **AIR-Bench 2024: Safety Evaluation Based on Risk Categories**  
