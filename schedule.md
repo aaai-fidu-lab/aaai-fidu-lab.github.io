@@ -168,7 +168,7 @@ nav: true
       <td class="session-column">Oral Session 3: Systematic Approaches to AI Impact Assessment</td>
       <td class="description-column">
         <ul>
-          <li>"GenAI Maturity Evaluation Framework (GEMF)"</li>
+          <li>"GenAI Evaluation Maturity Framework (GEMF)"</li>
           <li>"AIR-Bench 2024: Safety Evaluation Based on Risk Categories"</li>
           <li>"Evaluating Generative AI Systems is a Social Science Measurement Challenge"</li>
         </ul>
