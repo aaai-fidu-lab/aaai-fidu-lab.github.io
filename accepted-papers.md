@@ -92,7 +92,7 @@ The following tiny papers have been accepted to the EvalEval Workshop at NeurIPS
 * **[Democratic Perspectives and Institutional Capture of Crowdsourced Evaluations](accepted_papers/EvalEval_24_sarin.pdf)**  
   *parth sarin, Michelle Bao*
 
-* **[LLMs and Personalities: Inconsistencies Across Scales](accepted_papers/EvalEval_24_Tommaso.pdf)**  
+* **[LLMs and Personalities: Inconsistencies Across Scales](accepted_papers/EvalEval_24_Tosato.pdf)**  
   *Tosato Tommaso, Lemay David, Mahmood Hegazy, Irina Rish, Guillaume Dumas*
 
 * **[Assessing Bias in Metric Models for LLM Open-Ended Generation Bias Benchmarks](accepted_papers/EvalEval_24_Demchak.pdf)**  
