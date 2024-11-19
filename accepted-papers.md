@@ -38,7 +38,7 @@ The following tiny papers have been accepted to the EvalEval Workshop at NeurIPS
 
 ## Poster Presentations
 
-* **[Evaluations Using Wikipedia without Data Leakage: From Trusting Articles to Trusting Edit Processes](accepted_papers/EvalEval_24_Kaffee.pdf)**  
+* **[Evaluations Using Wikipedia without Data Contamination: From Trusting Articles to Trusting Edit Processes](accepted_papers/EvalEval_24_Kaffee.pdf)**  
   *Lucie-Aimée Kaffee, Isaac Johnson*
 
 * **[Can Vision-Language Models Replace Human Annotators: A Case Study with CelebA Dataset](accepted_papers/EvalEval_24_Lu.pdf)**  
@@ -89,7 +89,7 @@ The following tiny papers have been accepted to the EvalEval Workshop at NeurIPS
 * **[Fairness Dynamics During Training](accepted_papers/EvalEval_24_Patel.pdf)**  
   *Krishna Patel, Nivedha Sivakumar, Barry-John Theobald, Luca Zappella, Nicholas Apostoloff*
 
-* **[Democratic Perspectives and Corporate Captures of Crowdsourced Evaluations](accepted_papers/EvalEval_24_sarin.pdf)**  
+* **[Democratic Perspectives and Institutional Capture of Crowdsourced Evaluations](accepted_papers/EvalEval_24_sarin.pdf)**  
   *parth sarin, Michelle Bao*
 
 * **[LLMs and Personalities: Inconsistencies Across Scales](accepted_papers/EvalEval_24_Tommaso.pdf)**  
