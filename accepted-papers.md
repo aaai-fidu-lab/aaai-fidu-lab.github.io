@@ -30,8 +30,8 @@ The following tiny papers have been accepted to the EvalEval Workshop at NeurIPS
 * **[GenAI Evaluation Maturity Framework (GEMF)](accepted_papers/EvalEval_24_Zhang.pdf)**  
   *Yilin Zhang, Frank J Kanayet*
 
-* **[AIR-Bench 2024: Safety Evaluation Based on Risk Categories](accepted_papers/EvalEval_24_Klyman.pdf)**  
-  *Kevin Klyman*
+* **[AIR-BENCH 2024: Safety Evaluation Based on Risk Categories from Regulations and Policies](accepted_papers/EvalEval_24_Zeng.pdf)**  
+  *Yi Zeng, Yu Yang, Andy Zhou, Jeffrey Ziwei Tan, Yuheng Tu, Yifan Mai, Kevin Klyman, Minzhou Pan, Ruoxi Jia, Dawn Song, Percy Liang, Bo Li*
 
 * **[Evaluating Generative AI Systems is a Social Science Measurement Challenge](accepted_papers/EvalEval_24_Wallach.pdf)**  
   *Hanna Wallach, Meera Desai, Nicholas J Pangakis, A. Feder Cooper, Angelina Wang, Solon Barocas, Alexandra Chouldechova, Chad Atalla, Su Lin Blodgett, Emily Corvi, P. Alex Dow, Jean Garcia-Gathright, Alexandra Olteanu, Stefanie Reed, Emily Sheng, Dan Vann, Jennifer Wortman Vaughan, Matthew Vogel, Hannah Washington, Abigail Z Jacobs.*
