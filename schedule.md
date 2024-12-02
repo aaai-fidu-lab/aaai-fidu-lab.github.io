@@ -102,7 +102,7 @@ nav: true
     <tr>
       <td class="time-column">9:00 - 9:15 AM</td>
       <td class="session-column">☕ Coffee</td>
-      <td class="description-column"></td>
+      <td class="description-column">⏰😴📢⬆</td>
     </tr>
     <tr>
       <td class="time-column">9:15 - 9:30 AM</td>
