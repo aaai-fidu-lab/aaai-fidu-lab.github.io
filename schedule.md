@@ -88,7 +88,7 @@ nav: true
   }
 </style>
 
-# EvalEval Final Workshop Schedule
+# Tentative Workshop Schedule
 
 <table class="schedule-table">
   <thead>
