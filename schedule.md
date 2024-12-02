@@ -90,6 +90,8 @@ nav: true
 
 # Workshop Schedule 📅
 
+### All times in Pacific (Vancouver BC Local Time)
+
 <table class="schedule-table">
   <thead>
     <tr>
