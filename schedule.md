@@ -88,7 +88,7 @@ nav: true
   }
 </style>
 
-# Tentative Workshop Schedule
+# Workshop Schedule 📅
 
 <table class="schedule-table">
   <thead>
@@ -100,13 +100,13 @@ nav: true
   </thead>
   <tbody>
     <tr>
-      <td class="time-column">09:00 - 09:15</td>
-      <td class="session-column">Coffee</td>
+      <td class="time-column">9:00 - 9:15 AM</td>
+      <td class="session-column">☕ Coffee</td>
       <td class="description-column"></td>
     </tr>
     <tr>
-      <td class="time-column">09:15 - 09:30</td>
-      <td class="session-column">Welcome and Introduction</td>
+      <td class="time-column">9:15 - 9:30 AM</td>
+      <td class="session-column">👋 Welcome and Introduction</td>
       <td class="description-column">
         <ul>
           <li>Opening Remarks</li>
@@ -115,8 +115,8 @@ nav: true
       </td>
     </tr>
     <tr>
-      <td class="time-column">09:30 - 10:30</td>
-      <td class="session-column">Opening Panel: Reflections on the Landscape</td>
+      <td class="time-column">9:30 - 10:30 AM</td>
+      <td class="session-column">🎤 Opening Panel: Reflections on the Landscape</td>
       <td class="description-column">
         <ul>
           <li>Panel Discussion on AI Evaluation Challenges</li>
@@ -133,15 +133,15 @@ nav: true
       </td>
     </tr>
     <tr>
-      <td class="time-column">10:30 - 11:30</td>
-      <td class="session-column">Oral Session 1: Provocations and Ethics in AI Evaluation</td>
+      <td class="time-column">10:30 - 11:30 AM</td>
+      <td class="session-column">💭 Oral Session 1: Provocations and Ethics in AI Evaluation</td>
       <td class="description-column">
         <ul>
           <li>Presentations (25 min):
             <ul>
-              <li>Paper 15: "Provocation: Who benefits from 'inclusion' in Generative AI?"</li>
-              <li>Paper 47: "(Mis)use of nude images in machine learning research"</li>
-              <li>Paper 67: "Evaluating Refusal"</li>
+              <li>"Provocation: Who benefits from 'inclusion' in Generative AI?"</li>
+              <li>"(Mis)use of nude images in machine learning research"</li>
+              <li>"Evaluating Refusal"</li>
             </ul>
           </li>
           <li>Breakout (35 min):
@@ -154,15 +154,15 @@ nav: true
       </td>
     </tr>
     <tr>
-      <td class="time-column">11:30 - 12:30</td>
-      <td class="session-column">Oral Session 2: Multimodal and Cross-Cultural Evaluation Methods</td>
+      <td class="time-column">11:30 AM - 12:30 PM</td>
+      <td class="session-column">🌏 Oral Session 2: Multimodal and Cross-Cultural Evaluation Methods</td>
       <td class="description-column">
         <ul>
           <li>Presentations (25 min):
             <ul>
-              <li>Paper 10: "JMMMU: A Japanese Massive Multi-discipline Multimodal Understanding Benchmark"</li>
-              <li>Paper 8: "Critical human-AI use scenarios and interaction modes for societal impact evaluations"</li>
-              <li>Paper 43: "Cascaded to End-to-End: New Safety, Security, and Evaluation Questions for Audio Language Models"</li>
+              <li>"JMMMU: A Japanese Massive Multi-discipline Multimodal Understanding Benchmark"</li>
+              <li>"Critical human-AI use scenarios and interaction modes for societal impact evaluations"</li>
+              <li>"Cascaded to End-to-End: New Safety, Security, and Evaluation Questions for Audio Language Models"</li>
             </ul>
           </li>
           <li>Breakout (35 min):
@@ -175,38 +175,38 @@ nav: true
       </td>
     </tr>
     <tr>
-      <td class="time-column">12:30 - 14:30</td>
-      <td class="session-column">Lunch and Poster Session</td>
+      <td class="time-column">12:30 - 2:30 PM</td>
+      <td class="session-column">🍽️ Lunch and Poster Session</td>
       <td class="description-column">
         <ul>
-          <li>12:30 - 13:15: Lunch and Networking</li>
-          <li>13:15 - 14:30: Poster Presentations</li>
+          <li>12:30 - 1:15 PM: Lunch and Networking</li>
+          <li>1:15 - 2:30 PM: Poster Presentations</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td class="time-column">14:30 - 15:00</td>
-      <td class="session-column">Oral Session 3: Systematic Approaches to AI Impact Assessment</td>
+      <td class="time-column">2:30 - 3:00 PM</td>
+      <td class="session-column">📊 Oral Session 3: Systematic Approaches to AI Impact Assessment</td>
       <td class="description-column">
         <ul>
           <li>Presentations:
             <ul>
-              <li>Paper 31: "GenAI Evaluation Maturity Framework (GEMF)"</li>
-              <li>Paper 89: "AIR-Bench 2024: Safety Evaluation Based on Risk Categories"</li>
-              <li>Paper 34: "Evaluating Generative AI Systems is a Social Science Measurement Challenge"</li>
+              <li>"GenAI Evaluation Maturity Framework (GEMF)"</li>
+              <li>"AIR-Bench 2024: Safety Evaluation Based on Risk Categories"</li>
+              <li>"Evaluating Generative AI Systems is a Social Science Measurement Challenge"</li>
             </ul>
           </li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td class="time-column">15:00 - 15:30</td>
-      <td class="session-column">Break</td>
+      <td class="time-column">3:00 - 3:30 PM</td>
+      <td class="session-column">🔄 Break</td>
       <td class="description-column"></td>
     </tr>
     <tr>
-      <td class="time-column">15:30 - 16:05</td>
-      <td class="session-column">Oral Session 3 Breakout</td>
+      <td class="time-column">3:30 - 4:05 PM</td>
+      <td class="session-column">💡 Oral Session 3 Breakout</td>
       <td class="description-column">
         <ul>
           <li>Group Discussion (20 min):
@@ -221,8 +221,8 @@ nav: true
       </td>
     </tr>
     <tr>
-      <td class="time-column">16:05 - 17:00</td>
-      <td class="session-column">What's Next? Coalition Development</td>
+      <td class="time-column">4:05 - 5:00 PM</td>
+      <td class="session-column">🤝 What's Next? Coalition Development</td>
       <td class="description-column">
         <ul>
           <li>Recap and Teasers (15 min):
@@ -243,8 +243,8 @@ nav: true
       </td>
     </tr>
     <tr>
-      <td class="time-column">17:00 - 17:30</td>
-      <td class="session-column">Closing Session</td>
+      <td class="time-column">5:00 - 5:30 PM</td>
+      <td class="session-column">👋 Closing Session</td>
       <td class="description-column">
         <ul>
           <li>Summary of Key Insights and Next Steps</li>
