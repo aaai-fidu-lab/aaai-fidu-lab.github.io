@@ -88,7 +88,7 @@ nav: true
   }
 </style>
 
-# Workshop Schedule (Tentative)
+# EvalEval Final Workshop Schedule
 
 <table class="schedule-table">
   <thead>
@@ -100,7 +100,12 @@ nav: true
   </thead>
   <tbody>
     <tr>
-      <td class="time-column">09:00 - 09:30</td>
+      <td class="time-column">09:00 - 09:15</td>
+      <td class="session-column">Coffee</td>
+      <td class="description-column"></td>
+    </tr>
+    <tr>
+      <td class="time-column">09:15 - 09:30</td>
       <td class="session-column">Welcome and Introduction</td>
       <td class="description-column">
         <ul>
@@ -123,103 +128,126 @@ nav: true
               <li>Multimodal evaluation needs (text, images, audio, video)</li>
             </ul>
           </li>
+          <li>Q&A</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td class="time-column">10:30 - 11:15</td>
+      <td class="time-column">10:30 - 11:30</td>
       <td class="session-column">Oral Session 1: Provocations and Ethics in AI Evaluation</td>
       <td class="description-column">
         <ul>
-          <li>"Provocation: Who benefits from 'inclusion' in Generative AI?"</li>
-          <li>"(Mis)use of nude images in machine learning research"</li>
-          <li>"Evaluating Refusal"</li>
+          <li>Presentations (25 min):
+            <ul>
+              <li>Paper 15: "Provocation: Who benefits from 'inclusion' in Generative AI?"</li>
+              <li>Paper 47: "(Mis)use of nude images in machine learning research"</li>
+              <li>Paper 67: "Evaluating Refusal"</li>
+            </ul>
+          </li>
+          <li>Breakout (35 min):
+            <ul>
+              <li>Group Discussion (20 min): Ethics and Bias in Evaluation Design, Refusal and Boundary Setting, Research Ethics and Data Usage</li>
+              <li>Report Back (15 min)</li>
+            </ul>
+          </li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td class="time-column">11:15 - 11:30</td>
+      <td class="time-column">11:30 - 12:30</td>
+      <td class="session-column">Oral Session 2: Multimodal and Cross-Cultural Evaluation Methods</td>
+      <td class="description-column">
+        <ul>
+          <li>Presentations (25 min):
+            <ul>
+              <li>Paper 10: "JMMMU: A Japanese Massive Multi-discipline Multimodal Understanding Benchmark"</li>
+              <li>Paper 8: "Critical human-AI use scenarios and interaction modes for societal impact evaluations"</li>
+              <li>Paper 43: "Cascaded to End-to-End: New Safety, Security, and Evaluation Questions for Audio Language Models"</li>
+            </ul>
+          </li>
+          <li>Breakout (35 min):
+            <ul>
+              <li>Group Discussion (20 min): Language, Image, Audio, Video, Cross-Culture</li>
+              <li>Report Back (15 min)</li>
+            </ul>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td class="time-column">12:30 - 14:30</td>
+      <td class="session-column">Lunch and Poster Session</td>
+      <td class="description-column">
+        <ul>
+          <li>12:30 - 13:15: Lunch and Networking</li>
+          <li>13:15 - 14:30: Poster Presentations</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td class="time-column">14:30 - 15:00</td>
+      <td class="session-column">Oral Session 3: Systematic Approaches to AI Impact Assessment</td>
+      <td class="description-column">
+        <ul>
+          <li>Presentations:
+            <ul>
+              <li>Paper 31: "GenAI Evaluation Maturity Framework (GEMF)"</li>
+              <li>Paper 89: "AIR-Bench 2024: Safety Evaluation Based on Risk Categories"</li>
+              <li>Paper 34: "Evaluating Generative AI Systems is a Social Science Measurement Challenge"</li>
+            </ul>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td class="time-column">15:00 - 15:30</td>
       <td class="session-column">Break</td>
       <td class="description-column"></td>
     </tr>
     <tr>
-      <td class="time-column">11:30 - 12:15</td>
-      <td class="session-column">Oral Session 2: Multimodal and Cross-Cultural Evaluation Methods</td>
+      <td class="time-column">15:30 - 16:05</td>
+      <td class="session-column">Oral Session 3 Breakout</td>
       <td class="description-column">
         <ul>
-          <li>"JMMMU: A Japanese Massive Multi-discipline Multimodal Understanding Benchmark"</li>
-          <li>"Critical human-AI use scenarios and interaction modes for societal impact evaluations"</li>
-          <li>"Cascaded to End-to-End: New Safety, Security, and Evaluation Questions for Audio Language Models"</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td class="time-column">12:15 - 14:15</td>
-      <td class="session-column">Lunch and Poster Session</td>
-      <td class="description-column">
-        <ul>
-          <li>12:15 - 12:45 PM: Lunch setup and networking</li>
-          <li>12:45 - 14:15 PM: Poster presentations</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td class="time-column">14:15 - 15:00</td>
-      <td class="session-column">Oral Session 3: Systematic Approaches to AI Impact Assessment</td>
-      <td class="description-column">
-        <ul>
-          <li>"GenAI Evaluation Maturity Framework (GEMF)"</li>
-          <li>"AIR-Bench 2024: Safety Evaluation Based on Risk Categories"</li>
-          <li>"Evaluating Generative AI Systems is a Social Science Measurement Challenge"</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td class="time-column">15:00 - 15:45</td>
-      <td class="session-column">Group Activity: Building Evaluation Frameworks</td>
-      <td class="description-column">
-        <ul>
-          <li>Breakout Groups on Key Social Impact Categories</li>
-          <li>Activities include:
+          <li>Group Discussion (20 min):
             <ul>
               <li>Choosing Evaluations: Selecting relevant evaluations from a large repository</li>
               <li>Reviewing Tools and Datasets: Assessment of current tools and gaps</li>
               <li>Evaluating Reliability and Validity: Exploring construct validity and ranking methods</li>
             </ul>
           </li>
+          <li>Report Back (15 min)</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td class="time-column">15:45 - 16:00</td>
-      <td class="session-column">Break</td>
-      <td class="description-column"></td>
-    </tr>
-    <tr>
-      <td class="time-column">16:00 - 17:45</td>
+      <td class="time-column">16:05 - 17:00</td>
       <td class="session-column">What's Next? Coalition Development</td>
       <td class="description-column">
         <ul>
-          <li>Overview of Ongoing Social Impact Projects</li>
-          <li>Interactive Discussion: Launching the Coalition on Social Impact Evaluation</li>
-          <li>Topics include:
+          <li>Recap and Teasers (15 min):
             <ul>
-              <li>Developing criteria for evaluating evaluations</li>
-              <li>Creating proposed documentation standards</li>
-              <li>Building out resource repositories</li>
-              <li>Conducting reviews and publishing annual scorecards</li>
-              <li>Establishing next steps for collaboration and coalition goals</li>
+              <li>Overview of coalition groups</li>
+            </ul>
+          </li>
+          <li>Interactive Discussion (40 min):
+            <ul>
+              <li>Measurement Modeling</li>
+              <li>Developing Criteria for Evaluating Evaluations</li>
+              <li>Documentation: Creating Proposed Documentation Standards</li>
+              <li>Eval Repository: Building Out Resource Repositories</li>
+              <li>Scorecard/Checklist: Conducting Reviews and Publishing Annual Scorecards</li>
             </ul>
           </li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td class="time-column">17:45 - 18:00</td>
-      <td class="session-column">Closing Remarks</td>
+      <td class="time-column">17:00 - 17:30</td>
+      <td class="session-column">Closing Session</td>
       <td class="description-column">
         <ul>
-          <li>Summary of key insights and next steps</li>
+          <li>Summary of Key Insights and Next Steps</li>
         </ul>
       </td>
     </tr>
