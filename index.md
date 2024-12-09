@@ -70,7 +70,7 @@ a {
 
 # Evaluating Evaluations: Examining Best Practices for Measuring Broader Impacts of Generative AI
 
-An official [NeurIPS 2024 Workshop]([https://neurips.cc/](https://neurips.cc/virtual/2024/workshop/84734))
+An official [NeurIPS 2024 Workshop](https://neurips.cc/virtual/2024/workshop/84734)
 
 Date: December 15, 2024
 
