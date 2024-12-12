@@ -74,7 +74,7 @@ An official [NeurIPS 2024 Workshop](https://neurips.cc/virtual/2024/workshop/847
 
 Date: December 15, 2024
 
-Room: MTG 16
+Room: East Meeting Room 16
 
 
 <br>
