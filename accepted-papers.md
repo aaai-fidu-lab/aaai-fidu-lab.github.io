@@ -25,7 +25,7 @@ The following tiny papers have been accepted to the EvalEval Workshop at NeurIPS
 * **[Cascaded to End-to-End: New Safety, Security, and Evaluation Questions for Audio Language Models](accepted_papers/EvalEval_24_He.pdf)**  
   *Luxi He, Xiangyu Qi, Inyoung Cheong, Prateek Mittal, Danqi Chen, Peter Henderson*
 
-* **[GenAI Evaluation Maturity Framework (GEMF)](accepted_papers/EvalEval_24_Zhang.pdf)**  
+* **[GenAI Evaluation Maturity Framework (GEMF)](accepted_papers/EvalEval_24_Zhang.pdf)**, ([Slides](accepted_papers/slides/EvalEval_24_Zhang.pdf)), ([Poster](accepted_papers/posters/EvalEval_24_Zhang.pdf))  
   *Yilin Zhang, Frank J Kanayet*
 
 * **[AIR-BENCH 2024: Safety Evaluation Based on Risk Categories from Regulations and Policies](accepted_papers/EvalEval_24_Zeng.pdf)**  
@@ -42,7 +42,7 @@ The following tiny papers have been accepted to the EvalEval Workshop at NeurIPS
 * **[Can Vision-Language Models Replace Human Annotators: A Case Study with CelebA Dataset](accepted_papers/EvalEval_24_Lu.pdf)**  
   *Haoming Lu, Feifei Zhong*
 
-* **[Using Scenario-Writing for Identifying and Mitigating Impacts of Generative AI](accepted_papers/EvalEval_24_Kieslich.pdf)**  
+* **[Using Scenario-Writing for Identifying and Mitigating Impacts of Generative AI](accepted_papers/EvalEval_24_Kieslich.pdf)**, ([Poster](accepted_papers/posters/EvalEval_24_Kieslich.pdf))  
   *Kimon Kieslich, Nicholas Diakopoulos, Natali Helberger*
 
 * **[Troubling taxonomies in GenAI evaluation](accepted_papers/EvalEval_24_Berman.pdf)**  
@@ -54,7 +54,7 @@ The following tiny papers have been accepted to the EvalEval Workshop at NeurIPS
 * **[Provocation on Expertise in Social Impact Evaluations for Generative AI (and Beyond)](accepted_papers/EvalEval_24_Kahn.pdf)**  
   *Zoe Kahn, Nitin Kohli*
 
-* **[Rethinking CyberSecEval: An LLM-Aided Approach to Evaluation Critique](accepted_papers/EvalEval_24_Hariharan.pdf)**  
+* **[Rethinking CyberSecEval: An LLM-Aided Approach to Evaluation Critique](accepted_papers/EvalEval_24_Hariharan.pdf)**, ([Poster](accepted_papers/posters/EvalEval_24_Hariharan.pdf))  
   *Suhas Hariharan, Zainab Ali Majid, Jaime Raldua Veuthey, Jacob Haimes*
 
 * **[Contamination Report for Multilingual Benchmarks](accepted_papers/EvalEval_24_Ahuja.pdf)**  
@@ -63,7 +63,7 @@ The following tiny papers have been accepted to the EvalEval Workshop at NeurIPS
 * **[Towards Leveraging News Media to Support Impact Assessment of AI Technologies](accepted_papers/EvalEval_24_Allaham.pdf)**  
   *Mowafak Allaham, Kimon Kieslich, Nicholas Diakopoulos*
 
-* **[Motivations for Reframing Large Language Model Benchmarking for Legal Applications](accepted_papers/EvalEval_24_Ranjan.pdf)**  
+* **[Motivations for Reframing Large Language Model Benchmarking for Legal Applications](accepted_papers/EvalEval_24_Ranjan.pdf)**, ([Poster](accepted_papers/posters/EvalEval_24_Rajan.pdf))  
   *Riya Ranjan, Megan Ma*
 
 * **[A Framework for Evaluating LLMs Under Task Indeterminacy](accepted_papers/EvalEval_24_Guerdan.pdf)**  
@@ -78,7 +78,7 @@ The following tiny papers have been accepted to the EvalEval Workshop at NeurIPS
 * **[Rethinking Artistic Copyright Infringements in the Era of Text-to-Image Generative Models](accepted_papers/EvalEval_24_Moayeri.pdf)**  
   *Mazda Moayeri, Samyadeep Basu, Sriram Balasubramanian, Priyatham Kattakinda, Atoosa Chegini, Robert Brauneis, Soheil Feizi*
 
-* **[Gaps Between Research and Practice When Measuring Representational Harms Caused by LLM-Based Systems](accepted_papers/EvalEval_24_Harvey.pdf)**, ([Poster](accepted_papers/posters&slides/EvalEval_24_Harvey.pdf))  
+* **[Gaps Between Research and Practice When Measuring Representational Harms Caused by LLM-Based Systems](accepted_papers/EvalEval_24_Harvey.pdf)**, ([Poster](accepted_papers/posters/EvalEval_24_Harvey.pdf))  
   *Emma Harvey, Emily Sheng, Su Lin Blodgett, Alexandra Chouldechova, Jean Garcia-Gathright, Alexandra Olteanu, Hanna Wallach*
 
 * **[Surveying Surveys: Surveys' Role in Evaluating AI's Labor Market Impact](accepted_papers/EvalEval_24_Solis.pdf)**  
@@ -87,7 +87,7 @@ The following tiny papers have been accepted to the EvalEval Workshop at NeurIPS
 * **[Fairness Dynamics During Training](accepted_papers/EvalEval_24_Patel.pdf)**  
   *Krishna Patel, Nivedha Sivakumar, Barry-John Theobald, Luca Zappella, Nicholas Apostoloff*
 
-* **[Democratic Perspectives and Institutional Capture of Crowdsourced Evaluations](accepted_papers/EvalEval_24_sarin.pdf)**  
+* **[Democratic Perspectives and Institutional Capture of Crowdsourced Evaluations](accepted_papers/EvalEval_24_sarin.pdf)**, ([Poster](accepted_papers/posters/EvalEval_24_sarin.pdf))  
   *parth sarin, Michelle Bao*
 
 * **[LLMs and Personalities: Inconsistencies Across Scales](accepted_papers/EvalEval_24_Tosato.pdf)**  
