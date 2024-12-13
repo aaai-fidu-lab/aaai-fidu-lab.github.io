@@ -178,7 +178,7 @@ a {
     <div class="organizer-info">
       <strong>Cedric Whitney</strong>
       <span>University of California, Berkeley</span>
-      <a href="mailto:cedric.whitney@berkeley.edu">cedric.whitney@berkeley.edu</a>
+      <a href="mailto:cedric@ischool.berkeley.edu">cedric@ischool.berkeley.edu</a>
     </div>
   </div>
 </div>
