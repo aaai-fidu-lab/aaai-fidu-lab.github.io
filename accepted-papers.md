@@ -78,7 +78,7 @@ The following tiny papers have been accepted to the EvalEval Workshop at NeurIPS
 * **[Rethinking Artistic Copyright Infringements in the Era of Text-to-Image Generative Models](accepted_papers/EvalEval_24_Moayeri.pdf)**  
   *Mazda Moayeri, Samyadeep Basu, Sriram Balasubramanian, Priyatham Kattakinda, Atoosa Chegini, Robert Brauneis, Soheil Feizi*
 
-* **[Gaps Between Research and Practice When Measuring Representational Harms Caused by LLM-Based Systems](accepted_papers/EvalEval_24_Harvey.pdf)**  
+* **[Gaps Between Research and Practice When Measuring Representational Harms Caused by LLM-Based Systems](accepted_papers/EvalEval_24_Harvey.pdf)**  ([Poster](accepted_papers/posters&slides/EvalEval_24_Harvey.pdf))
   *Emma Harvey, Emily Sheng, Su Lin Blodgett, Alexandra Chouldechova, Jean Garcia-Gathright, Alexandra Olteanu, Hanna Wallach*
 
 * **[Surveying Surveys: Surveys' Role in Evaluating AI's Labor Market Impact](accepted_papers/EvalEval_24_Solis.pdf)**  
