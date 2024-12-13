@@ -25,6 +25,11 @@ nav: true
   gap: 20px;
   margin-bottom: 2em;
 }
+/* Add styles to center the last row when there's an incomplete number of items */
+.core-organizer-grid::after {
+  content: "";
+  grid-column: span 2;
+}
 .organizer-card {
   display: flex;
   flex-direction: column;
@@ -74,6 +79,9 @@ a {
   }
   .core-organizer-grid {
     grid-template-columns: 1fr;
+  }
+  .core-organizer-grid::after {
+    content: none;
   }
 }
 .section-card + h1, 
@@ -219,5 +227,4 @@ a {
 <div class="section-card">
 
 We gratefully acknowledge the support of all our organizers, additional contributors, and the NeurIPS community in making this workshop possible.
-
 </div>
