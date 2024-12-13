@@ -173,6 +173,14 @@ a {
       <a href="mailto:friedrich@cs.tu-darmstadt.de">friedrich@cs.tu-darmstadt.de</a>
     </div>
   </div>
+  <div class="organizer-card">
+    <img src="images/cedric-whitney.jpg" alt="Cedric Whitney" class="organizer-photo">
+    <div class="organizer-info">
+      <strong>Cedric Whitney</strong>
+      <span>University of California, Berkeley</span>
+      <a href="mailto:cedric.whitney@berkeley.edu">cedric.whitney@berkeley.edu</a>
+    </div>
+  </div>
 </div>
 </div>
 
@@ -180,7 +188,6 @@ a {
 
 <div class="section-card" markdown="1">
 
-- Cedric Whitney (University of California, Berkeley)
 - William Agnew (University of Washington)
 - Lama Ahmad (OpenAI)
 - Dylan Baker (DAIR)
