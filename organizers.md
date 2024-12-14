@@ -189,6 +189,14 @@ a {
       <a href="mailto:cedric@ischool.berkeley.edu">cedric@ischool.berkeley.edu</a>
     </div>
   </div>
+  <div class="organizer-card">
+    <img src="images/michelle-lin.jpg" alt="Michelle Lin" class="organizer-photo">
+    <div class="organizer-info">
+      <strong>Michelle Lin</strong>
+      <span>Mila Quebec AI Institute</span>
+      <a href="mailto:michelle.lin2@mail.mgcill.ca">michelle.lin2@mail.mgcill.ca</a>
+    </div>
+  </div>
 </div>
 </div>
 
