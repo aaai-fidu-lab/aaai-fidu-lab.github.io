@@ -13,7 +13,7 @@ The following tiny papers have been accepted to the EvalEval Workshop at NeurIPS
 * **[(Mis)use of Nude Images in Machine Learning Research](accepted_papers/EvalEval_24_Arya.pdf)**  
   *Arshia Arya, Princessa Cintaqia, Deepak Kumar, Allison McDonald, Lucy Qin, Elissa M Redmiles*
 
-* **[Evaluating Refusal](accepted_papers/EvalEval_24_Abramovich.pdf)**  
+* **[Evaluating Refusal](accepted_papers/EvalEval_24_Abramovich.pdf)**, ([Slides](accepted_papers/slides/EvalEval_24_Abramovich.pdf))  
   *Shira Abramovich, Anna Ma*
 
 * **[JMMMU: A Japanese Massive Multi-discipline Multimodal Understanding Benchmark](accepted_papers/EvalEval_24_Onohara.pdf)**  
