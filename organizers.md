@@ -215,7 +215,6 @@ a {
 - Sara Hooker (Cohere for AI)
 - Ria Kalluri (Stanford University)
 - Alina Leidinger (University of Amsterdam)
-- Michelle Lin (Mila Quebec AI Institute)
 - Xiuzhu Lin (Independent)
 - Sasha Luccioni (Hugging Face)
 - Margaret Mitchell (Hugging Face)
