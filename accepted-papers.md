@@ -10,13 +10,13 @@ The following tiny papers have been accepted to the EvalEval Workshop at NeurIPS
 * **[Provocation: Who benefits from "inclusion" in Generative AI?](accepted_papers/EvalEval_24_Dalal.pdf)**  
   *Samantha Dalal, Siobhan Mackenzie Hall, Nari Johnson*
 
-* **[(Mis)use of Nude Images in Machine Learning Research](accepted_papers/EvalEval_24_Arya.pdf)**  
+* **[(Mis)use of Nude Images in Machine Learning Research](accepted_papers/EvalEval_24_Arya.pdf)**, ([Slides](accepted_papers/slides/EvalEval_24_Arya.pdf))  
   *Arshia Arya, Princessa Cintaqia, Deepak Kumar, Allison McDonald, Lucy Qin, Elissa M Redmiles*
 
 * **[Evaluating Refusal](accepted_papers/EvalEval_24_Abramovich.pdf)**, ([Slides](accepted_papers/slides/EvalEval_24_Abramovich.pdf))  
   *Shira Abramovich, Anna Ma*
 
-* **[JMMMU: A Japanese Massive Multi-discipline Multimodal Understanding Benchmark](accepted_papers/EvalEval_24_Onohara.pdf)**  
+* **[JMMMU: A Japanese Massive Multi-discipline Multimodal Understanding Benchmark](accepted_papers/EvalEval_24_Onohara.pdf)**, ([Slides](accepted_papers/slides/EvalEval_24_Onohara.pdf))  
   *Shota Onohara, Atsuyuki Miyai, Yuki Imajuku, Kazuki Egashira, Jeonghun Baek, Xiang Yue, Graham Neubig, Kiyoharu Aizawa*
 
 * **[Critical human-AI use scenarios and interaction modes for societal impact evaluations](accepted_papers/EvalEval_24_Ibrahim.pdf)**  
