@@ -7,7 +7,7 @@ The following tiny papers have been accepted to the EvalEval Workshop at NeurIPS
 
 ## Oral Presentations
 
-* **[Provocation: Who benefits from "inclusion" in Generative AI?](accepted_papers/EvalEval_24_Dalal.pdf)**  
+* **[Provocation: Who benefits from "inclusion" in Generative AI?](accepted_papers/EvalEval_24_Dalal.pdf)**, ([Slides](accepted_papers/slides/EvalEval_24_Dalal.pdf))  
   *Samantha Dalal, Siobhan Mackenzie Hall, Nari Johnson*
 
 * **[(Mis)use of Nude Images in Machine Learning Research](accepted_papers/EvalEval_24_Arya.pdf)**, ([Slides](accepted_papers/slides/EvalEval_24_Arya.pdf))  
