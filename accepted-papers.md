@@ -22,7 +22,7 @@ The following tiny papers have been accepted to the EvalEval Workshop at NeurIPS
 * **[Critical human-AI use scenarios and interaction modes for societal impact evaluations](accepted_papers/EvalEval_24_Ibrahim.pdf)**  
   *Lujain Ibrahim, Saffron Huang, Lama Ahmad, Markus Anderljung*
 
-* **[Cascaded to End-to-End: New Safety, Security, and Evaluation Questions for Audio Language Models](accepted_papers/EvalEval_24_He.pdf)**  
+* **[Cascaded to End-to-End: New Safety, Security, and Evaluation Questions for Audio Language Models](accepted_papers/EvalEval_24_He.pdf)**, ([Slides](accepted_papers/slides/EvalEval_24_He.pdf))  
   *Luxi He, Xiangyu Qi, Inyoung Cheong, Prateek Mittal, Danqi Chen, Peter Henderson*
 
 * **[GenAI Evaluation Maturity Framework (GEMF)](accepted_papers/EvalEval_24_Zhang.pdf)**, ([Slides](accepted_papers/slides/EvalEval_24_Zhang.pdf))<!-- , ([Poster](accepted_papers/posters/EvalEval_24_Zhang.pdf)) -->  
@@ -82,7 +82,7 @@ The following tiny papers have been accepted to the EvalEval Workshop at NeurIPS
   *Emma Harvey, Emily Sheng, Su Lin Blodgett, Alexandra Chouldechova, Jean Garcia-Gathright, Alexandra Olteanu, Hanna Wallach*
 
 * **[Surveying Surveys: Surveys' Role in Evaluating AI's Labor Market Impact](accepted_papers/EvalEval_24_Solis.pdf)**  
-  *Cassandra Duchan Solis*
+  *Cassandra Duchan Solis, Pamela Mishkin*
 
 * **[Fairness Dynamics During Training](accepted_papers/EvalEval_24_Patel.pdf)**  
   *Krishna Patel, Nivedha Sivakumar, Barry-John Theobald, Luca Zappella, Nicholas Apostoloff*
