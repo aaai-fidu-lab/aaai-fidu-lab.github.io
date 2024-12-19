@@ -5,22 +5,22 @@ nav: true
 
 # What's Next?
 
-## Workshop Materials
+### Workshop Materials
 
-The slides from the workshop are available below. Feel free to reference these materials as you continue exploring impact evaluation.
+The slides from the workshop, along with the outcomes of breakout discussions, are available below. Feel free to reference these materials as you continue exploring impact evaluation.
 
 {% include pdf.html pdf="pdfs/workshop-slides.pdf" %}
 
-## Broader Impact Coalition
+### Broader Impact Coalition
 
 We're excited to announce the formation of a Broader Impact Coalition! Our experience has shown that evaluations are more effective when developed through multi-stakeholder consensus.
 
-### Social Impact Card Demo
+#### Social Impact Card Demo
 
 We demonstrated a social impact card during the workshop and are actively seeking feedback. You can explore and interact with the demo on Hugging Face:
 [SIMPDashboard](https://huggingface.co/spaces/evijit/SIMPDashboard)
 
-### Coalition Goals
+#### Coalition Goals
 
 The upcoming coalition will focus on several key initiatives:
 
@@ -28,7 +28,7 @@ The upcoming coalition will focus on several key initiatives:
 - Producing research outputs, including impact card infrastructure, academic papers, and other resources
 - Organizing the next EvalEval event
 
-### Get Involved
+#### Get Involved
 
 This work is both critical and urgent - we need all the help we can get! If you're interested in contributing to this important initiative, please:
 
