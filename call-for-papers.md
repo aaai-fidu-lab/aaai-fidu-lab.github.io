@@ -1,5 +1,5 @@
 ---
-title: CFP
+title: Submit
 nav: true
 ---
 
