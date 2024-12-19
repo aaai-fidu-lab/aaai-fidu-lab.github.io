@@ -55,7 +55,7 @@ nav: true
 We are excited to bring together a stellar group of experts to discuss the critical topic of evaluating the broader impacts of generative AI systems. Here are our confirmed speakers:
 
 <div class="speaker-container">
-  <div class="speaker-card">
+<!--   <div class="speaker-card">
     <img src="images/abeba.jpg" alt="Abeba Birhane" class="speaker-image">
     <div class="speaker-info">
       <div class="speaker-name">Abeba Birhane</div>
@@ -64,7 +64,7 @@ We are excited to bring together a stellar group of experts to discuss the criti
       </p>
     </div>
   </div>
-
+ -->
   <div class="speaker-card">
     <img src="images/abigail.jpg" alt="Abigail Jacobs" class="speaker-image">
     <div class="speaker-info">
