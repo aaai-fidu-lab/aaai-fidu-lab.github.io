@@ -1,6 +1,17 @@
-<div class="text-center">
+<div class="pdf-container">
+  <!-- Desktop PDF viewer -->
+  <div class="desktop-pdf">
     <object data="{{ include.pdf | relative_url }}" type="application/pdf" width="{{ include.width | default: '100%' }}" height="{{ include.height | default: '800px' }}">
-        <p>It appears you don't have a PDF plugin for this browser. You can 
-        <a href="{{ include.pdf | relative_url }}">click here to download the PDF file.</a></p>
+      <p>Your browser doesn't support PDF embedding. You can <a href="{{ include.pdf | relative_url }}" download>download the PDF here</a>.</p>
     </object>
+  </div>
+  
+  <!-- Mobile PDF button -->
+  <div class="mobile-pdf">
+    <p class="text-center">
+      <a href="{{ include.pdf | relative_url }}" class="pdf-button" download>
+        📥 Download Workshop Slides (PDF)
+      </a>
+    </p>
+  </div>
 </div>
