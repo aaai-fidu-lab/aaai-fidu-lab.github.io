@@ -95,143 +95,20 @@ a {
 <div class="section-card">
 <div class="lead-organizer-grid">
   <div class="organizer-card">
-    <img src="images/avijit-ghosh.jpg" alt="Avijit Ghosh" class="organizer-photo">
+    <img src="images/JP_OfficialPic.png" alt="Jayeeta Putatunda" class="organizer-photo">
     <div class="organizer-info">
-      <strong>Avijit Ghosh</strong>
-      <span>Applied Policy Researcher, Hugging Face</span>
-      <a href="mailto:avijit@huggingface.co">avijit@huggingface.co</a>
+      <strong>Jayeeta Putatunda</strong>
+      <span>Lead Data Scientist, Director – AI CoE at Fitch Group, specialising in NLP and Gen AI. Her focus is on custom SLMs and advanced RAG pipelines. Jayeeta is also the NYC Chapter Lead for Women in AI and was named a 2024 Generative AI Leader by AIM.</span>      
     </div>
   </div>
+  
   <div class="organizer-card">
-    <img src="images/irene-solaiman.jpg" alt="Irene Solaiman" class="organizer-photo">
+    <img src="images/anant_headshot1.png" alt="Anant Gupta" class="organizer-photo">
     <div class="organizer-info">
-      <strong>Irene Solaiman</strong>
-      <span>Head of Global Policy, Hugging Face</span>
-      <a href="mailto:irene@huggingface.co">irene@huggingface.co</a>
+      <strong>Anant Gupta</strong>
+      <span>Senior AI Researcher in the Bloomberg AI group. He focuses on improving financial document search and understanding products using GenAI. Anant also leads the ML/NLP Guild at Bloomberg.</span>      
     </div>
   </div>
-  <div class="organizer-card">
-    <img src="images/zeerak-talat.jpg" alt="Zeerak Talat" class="organizer-photo">
-    <div class="organizer-info">
-      <strong>Zeerak Talat</strong>
-      <span>Research Fellow, MBZUAI</span>
-      <a href="mailto:z@zeerak.org">z@zeerak.org</a>
-    </div>
-  </div>
-  <div class="organizer-card">
-    <img src="images/yacine-jernite.jpg" alt="Yacine Jernite" class="organizer-photo">
-    <div class="organizer-info">
-      <strong>Yacine Jernite</strong>
-      <span>Machine Learning and Society Lead, Hugging Face</span>
-      <a href="mailto:yacine@huggingface.co">yacine@huggingface.co</a>
-    </div>
-  </div>
+    
 </div>
-</div>
-
-# Core Organizers
-
-<div class="section-card">
-<div class="core-organizer-grid">
-  <div class="organizer-card">
-    <img src="images/usman-gohar.jpg" alt="Usman Gohar" class="organizer-photo">
-    <div class="organizer-info">
-      <strong>Usman Gohar</strong>
-      <span>Ph.D. student, Iowa State University</span>
-      <a href="mailto:ugohar@iastate.edu">ugohar@iastate.edu</a>
-    </div>
-  </div>  
-  <div class="organizer-card">
-    <img src="images/jennifer-mickel.jpg" alt="Jennifer Mickel" class="organizer-photo">
-    <div class="organizer-info">
-      <strong>Jennifer Mickel</strong>
-      <span>Researcher in AI and algorithmic fairness</span>
-      <a href="mailto:jamickel@utexas.edu">jamickel@utexas.edu</a>
-    </div>
-  </div>
-  <div class="organizer-card">
-    <img src="images/lucie-aimee-kaffee.jpg" alt="Lucie-Aimée Kaffee" class="organizer-photo">
-    <div class="organizer-info">
-      <strong>Lucie-Aimée Kaffee</strong>
-      <span>Applied Policy Researcher, Hugging Face</span>
-      <a href="mailto:lucie.kaffee@huggingface.co">lucie.kaffee@huggingface.co</a>
-    </div>
-  </div>
-  <div class="organizer-card">
-    <img src="images/arjun-subramonian.jpg" alt="Arjun Subramonian" class="organizer-photo">
-    <div class="organizer-info">
-      <strong>Arjun Subramonian</strong>
-      <span>Computer Science PhD candidate, UCLA</span>
-      <a href="mailto:arjunsub@cs.ucla.edu">arjunsub@cs.ucla.edu</a>
-    </div>
-  </div>
-  <div class="organizer-card">
-    <img src="images/alberto-lusoli.jpg" alt="Alberto Lusoli" class="organizer-photo">
-    <div class="organizer-info">
-      <strong>Alberto Lusoli</strong>
-      <span>Digital Democracies Institute Deputy Director, Simon Fraser University</span>
-      <a href="mailto:alberto.lusoli@gmail.com">alberto.lusoli@gmail.com</a>
-    </div>
-  </div>
-  <div class="organizer-card">
-    <img src="images/felix-friedrich.jpg" alt="Felix Friedrich" class="organizer-photo">
-    <div class="organizer-info">
-      <strong>Felix Friedrich</strong>
-      <span>PhD student, TU Darmstadt & hessian.AI</span>
-      <a href="mailto:friedrich@cs.tu-darmstadt.de">friedrich@cs.tu-darmstadt.de</a>
-    </div>
-  </div>
-  <div class="organizer-card">
-    <img src="images/cedric-whitney.jpg" alt="Cedric Whitney" class="organizer-photo">
-    <div class="organizer-info">
-      <strong>Cedric Whitney</strong>
-      <span>University of California, Berkeley</span>
-      <a href="mailto:cedric@ischool.berkeley.edu">cedric@ischool.berkeley.edu</a>
-    </div>
-  </div>
-  <div class="organizer-card">
-    <img src="images/michelle-lin.jpg" alt="Michelle Lin" class="organizer-photo">
-    <div class="organizer-info">
-      <strong>Michelle Lin</strong>
-      <span>Mila Quebec AI Institute</span>
-      <a href="mailto:michelle.lin2@mail.mgcill.ca">michelle.lin2@mail.mgcill.ca</a>
-    </div>
-  </div>
-</div>
-</div>
-
-# Additional Contributors
-
-<div class="section-card" markdown="1">
-
-- William Agnew (University of Washington)
-- Lama Ahmad (OpenAI)
-- Dylan Baker (DAIR)
-- Canyu Chen (Illinois Institute of Technology)
-- Hal Daumé III (University of Maryland)
-- Jesse Dodge (Allen Institute for AI)
-- Isabella Duan (University of Chicago)
-- Ellie Evans (Independent)
-- Sara Hooker (Cohere for AI)
-- Ria Kalluri (Stanford University)
-- Alina Leidinger (University of Amsterdam)
-- Xiuzhu Lin (Independent)
-- Sasha Luccioni (Hugging Face)
-- Margaret Mitchell (Hugging Face)
-- Jessica Newman (University of California, Berkeley)
-- Anaelia Ovalle (University of California, Los Angeles)
-- Marie-Therese Png (Oxford University)
-- Levent Sagun (Independent)
-- Shubham Singh (University of Illinois Chicago)
-- Andrew Strait (Ada Lovelace)
-- Lukas Struppek (German Center for Artificial Intelligence, TU Darmstadt)
-
-</div>
-
-
-# Acknowledgments
-
-<div class="section-card">
-
-We gratefully acknowledge the support of all our organizers, additional contributors, and the NeurIPS community in making this workshop possible.
 </div>

@@ -1,11 +1,15 @@
 # Workshop Site Settings
-title: "EvalEval 2024"
-description: "A NeurIPS 2024 workshop on best practices for measuring the broader impacts of generative AI systems"
-year: 2024
+# title appears in the header
+title: "AAAI FIDU lab"
+# description and keywords for meta tags
+description: "Financial Inclusion through AI-Powered Document Understanding"
+keywords: "LLM, finance, document understanding, financial inclusion, RAG"
+year: 2025
+
 
 # Site settings
 baseurl: "/"
-url: "https://evaleval.github.io"
+url: "https://aaai-fidu-lab.github.io"
 emoji_favicon: "💡"
 
 # Author settings
@@ -22,13 +26,8 @@ relative_links:
 
 # Navigation settings
 nav_pages:
-  - index.md
-  - call-for-papers.md
-  - accepted-papers.md
-  - schedule.md
-  - speakers.md
+  - index.md    
   - organizers.md
-  - whats-next.md
 
 # Colors
 color_scheme: blue
