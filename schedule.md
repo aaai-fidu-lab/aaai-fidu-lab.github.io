@@ -1,6 +1,5 @@
 ---
 title: Schedule
-nav: true
 ---
 
 <style>

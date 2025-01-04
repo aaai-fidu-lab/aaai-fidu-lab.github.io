@@ -1,6 +1,6 @@
 ---
 title: Accepted Papers
-nav: true
+
 ---
 
 The following tiny papers have been accepted to the EvalEval Workshop at NeurIPS 2024:

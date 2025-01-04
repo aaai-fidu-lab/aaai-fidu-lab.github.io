@@ -1,6 +1,6 @@
 ---
 title: Speakers
-nav: true
+
 ---
 
 <style>

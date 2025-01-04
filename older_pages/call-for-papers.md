@@ -1,6 +1,6 @@
 ---
 title: Submit
-nav: true
+
 ---
 
 <style>

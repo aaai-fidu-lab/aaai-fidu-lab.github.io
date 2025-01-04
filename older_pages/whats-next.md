@@ -1,6 +1,6 @@
 ---
 title: Next Steps
-nav: true
+
 ---
 
 # What's Next?
