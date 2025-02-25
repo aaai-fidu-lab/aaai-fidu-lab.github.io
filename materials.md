@@ -1,6 +1,6 @@
 ---
 title: Materials for the Tutorial
-
+nav: true
 ---
 
 - [Slides](https://docs.google.com/presentation/d/1nW8hX2zwT-KcrdWYuH1EFTAyiPq2o3F7kWULXAPFFjM/edit#slide=id.g333d3f0322b_0_120)
