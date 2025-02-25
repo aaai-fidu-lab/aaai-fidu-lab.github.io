@@ -68,9 +68,9 @@ a {
   <img src="{{ '/images/aaai-fidu-banner.jpg' | relative_url }}" alt="Banner" class="banner-image">
 </div>
 
-# Evaluating Evaluations: Examining Best Practices for Measuring Broader Impacts of Generative AI
+# Financial Inclusion through AI-Powered Document Understanding
 
-An official [AAAI 2025 Lab](https://aaai.org/conference/aaai/aaai-25/tutorial-and-lab-forum/)
+An official [AAAI 2025 Lab](https://aaai.org/conference/aaai/aaai-25/tutorial-and-lab-list/#LQ04)
 
 
 <br>
