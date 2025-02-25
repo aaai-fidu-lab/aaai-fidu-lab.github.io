@@ -1,5 +1,5 @@
 ---
-title: Materials for the Tutorial
+title: Resources
 nav: true
 ---
 
