@@ -24,6 +24,7 @@ relative_links:
 # Navigation settings
 nav_pages:
   - index.md    
+  - materials.md
   - organizers.md
 
 # Colors
