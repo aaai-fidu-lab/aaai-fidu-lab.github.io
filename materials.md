@@ -8,3 +8,5 @@ nav: true
 - [Collab Notebook](https://colab.research.google.com/drive/1thZ8vw9ldYwMe0PAN3xtp6Ri4YvU0FUO#scrollTo=C_AKcezZnrM0)
 
 - [Data](https://drive.google.com/drive/folders/1ykD8vGvyQn7orBi9PiTKICykUrOS0uzv)
+
+- [Web app](https://lakq46zvhgobswem.anvil.app/Y3CWFHWD3HGVBF7HJYVNAIOE) 
